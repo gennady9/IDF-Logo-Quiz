@@ -62,7 +62,7 @@ public class MainActivity extends Activity {
         
 
 
-     	Integer[] ChoosenArray = myDbHelper.getImgIdArray(this, "kumta");
+     	//Integer[] ChoosenArray = myDbHelper.getImgIdArray(this, "kumta");
 
     //    int test = myDbHelper.getImgIdArray(this, "pin");
      //   res = "";
@@ -72,16 +72,16 @@ public class MainActivity extends Activity {
      //   res = String.valueOf(test);
   //      res = myDbHelper.getData();
         myDbHelper.close();
-        res = "debug";
-        for(int i=0; i<ChoosenArray.length; i++)
-        	res = res + ChoosenArray[i].toString();
+    //    res = "debug";
+    //    for(int i=0; i<ChoosenArray.length; i++)
+    //   	res = res + ChoosenArray[i].toString();
         
     //    res = entry.getData();
     //    entry.close(); 
         
-        
-        TextView dbview = (TextView) findViewById(R.id.dbtextview);
-        dbview.setText(res);
+
+     //   TextView dbview = (TextView) findViewById(R.id.dbtextview);
+     //   dbview.setText(res);
        
     }
 

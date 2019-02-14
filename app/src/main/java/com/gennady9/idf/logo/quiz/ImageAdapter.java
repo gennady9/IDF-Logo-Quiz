@@ -9,6 +9,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
+import android.util.Log;
 
 import java.io.IOException;
  
@@ -94,7 +95,7 @@ public class ImageAdapter extends BaseAdapter {
          	throw new Error("Unable to create database");}
          try {myDbHelper.openDataBase();}catch(SQLException sqle){throw sqle;} // myDbHelper.close();
         
-         
+         Log.e("IMAGE_ADAPTER", "DEBUG_GENNA - Finding resource in position = " + String.valueOf(position));
          String ImageName = mContext.getResources().getResourceEntryName(mThumbIds[position]);
          holder.state = myDbHelper.getState(mType, ImageName);
          //        holder.correctbool = myDbHelper.CheckCorrectAns(ImageName);

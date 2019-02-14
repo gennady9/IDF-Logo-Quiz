@@ -10,6 +10,7 @@ import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Build;
 import android.os.Environment;
+import android.util.Log;
 
 
 import java.io.FileOutputStream;
@@ -22,7 +23,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
     //The Android's default system path of your application database.
     private static String DB_PATH = "/data/data/com.gennady9.idf.logo.quiz/databases/";
  
-    private static String DB_NAME = "FullDB";
+    private static String DB_NAME = "FullDB.db";
     private static String DB_TABLE = "ReadTable";
  
     private SQLiteDatabase myDataBase; 
@@ -55,9 +56,9 @@ public class DataBaseHelper extends SQLiteOpenHelper{
      * Creates a empty database on the system and rewrites it with your own database.
      * */
     public void createDataBase() throws IOException{
- 
+
     	boolean dbExist = checkDataBase();
- 
+		Log.e("DB","DEBUG_GENNA - CREATE DATABASE ENDED");
     	if(dbExist){
     		//do nothing - database already exist
     	}else{
@@ -65,7 +66,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
     		//By calling this method and empty database will be created into the default system path
                //of your application so we are gonna be able to overwrite that database with our database.
         	this.getReadableDatabase();
- 
+            this.close();
         	try {
  
     			copyDataBase();
@@ -92,7 +93,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
     		checkDB = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READONLY);
  
     	}catch(SQLiteException e){
- 
+            Log.e("DB","DEBUG_GENNA - CANT OPEN DATABASE");
     		//database does't exist yet.
  
     	}

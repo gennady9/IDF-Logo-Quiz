@@ -8,284 +8,861 @@
 package com.gennady9.idf.logo.quiz;
 
 public final class R {
+  public static final class attr {
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     */
+    public static final int font=0x7f010000;
+    /**
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     */
+    public static final int fontProviderAuthority=0x7f010001;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     */
+    public static final int fontProviderCerts=0x7f010002;
+    /**
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>async</td><td>1</td><td></td></tr>
+     * <tr><td>blocking</td><td>0</td><td></td></tr>
+     * </table>
+     */
+    public static final int fontProviderFetchStrategy=0x7f010003;
+    /**
+     * <p>May be an integer value, such as "<code>100</code>".
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
+     * </table>
+     */
+    public static final int fontProviderFetchTimeout=0x7f010004;
+    /**
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     */
+    public static final int fontProviderPackage=0x7f010005;
+    /**
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     */
+    public static final int fontProviderQuery=0x7f010006;
+    /**
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>italic</td><td>1</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * </table>
+     */
+    public static final int fontStyle=0x7f010007;
+    /**
+     * <p>May be an integer value, such as "<code>100</code>".
+     */
+    public static final int fontWeight=0x7f010008;
+  }
+  public static final class bool {
+    public static final int abc_action_bar_embed_tabs=0x7f020000;
+  }
+  public static final class color {
+    public static final int notification_action_color_filter=0x7f030000;
+    public static final int notification_icon_bg_color=0x7f030001;
+    public static final int notification_material_background_media_default_color=0x7f030002;
+    public static final int primary_text_default_material_dark=0x7f030003;
+    public static final int ripple_material_light=0x7f030004;
+    public static final int secondary_text_default_material_dark=0x7f030005;
+    public static final int secondary_text_default_material_light=0x7f030006;
+  }
+  public static final class dimen {
+    public static final int compat_button_inset_horizontal_material=0x7f040000;
+    public static final int compat_button_inset_vertical_material=0x7f040001;
+    public static final int compat_button_padding_horizontal_material=0x7f040002;
+    public static final int compat_button_padding_vertical_material=0x7f040003;
+    public static final int compat_control_corner_material=0x7f040004;
+    public static final int notification_action_icon_size=0x7f040005;
+    public static final int notification_action_text_size=0x7f040006;
+    public static final int notification_big_circle_margin=0x7f040007;
+    public static final int notification_content_margin_start=0x7f040008;
+    public static final int notification_large_icon_height=0x7f040009;
+    public static final int notification_large_icon_width=0x7f04000a;
+    public static final int notification_main_column_padding_top=0x7f04000b;
+    public static final int notification_media_narrow_margin=0x7f04000c;
+    public static final int notification_right_icon_size=0x7f04000d;
+    public static final int notification_right_side_padding_top=0x7f04000e;
+    public static final int notification_small_icon_background_padding=0x7f04000f;
+    public static final int notification_small_icon_size_as_large=0x7f040010;
+    public static final int notification_subtext_size=0x7f040011;
+    public static final int notification_top_pad=0x7f040012;
+    public static final int notification_top_pad_large_text=0x7f040013;
+  }
   public static final class drawable {
-    public static final int aka_hinuh=0x7f010000;
-    public static final int aka_klali=0x7f010001;
-    public static final int aka_mofet=0x7f010002;
-    public static final int aka_mp=0x7f010003;
-    public static final int aka_shlishot=0x7f010004;
-    public static final int armor_hativa188=0x7f010005;
-    public static final int armor_hativa401=0x7f010006;
-    public static final int armor_hativa460=0x7f010007;
-    public static final int armor_hativa7=0x7f010008;
-    public static final int artillery_bislat=0x7f010009;
-    public static final int artillery_fire_pillar=0x7f01000a;
-    public static final int artillery_golan=0x7f01000b;
-    public static final int artillery_hatam=0x7f01000c;
-    public static final int artillery_kala_david=0x7f01000d;
-    public static final int artillery_kidon=0x7f01000e;
-    public static final int artillery_meitar=0x7f01000f;
-    public static final int artillery_meitar_1=0x7f010010;
-    public static final int artillery_shlhevet=0x7f010011;
-    public static final int artillery_tavor=0x7f010012;
-    public static final int bpin_air=0x7f010013;
-    public static final int bpin_artillery=0x7f010014;
-    public static final int bpin_eisof_kravi=0x7f010015;
-    public static final int bpin_general=0x7f010016;
-    public static final int bpin_hamihlala=0x7f010017;
-    public static final int bpin_handasa_kravit=0x7f010018;
-    public static final int bpin_haoref=0x7f010019;
-    public static final int bpin_himush=0x7f01001a;
-    public static final int bpin_hinuh=0x7f01001b;
-    public static final int bpin_intel=0x7f01001c;
-    public static final int bpin_ktzinim=0x7f01001d;
-    public static final int bpin_logistica=0x7f01001e;
-    public static final int bpin_magav=0x7f01001f;
-    public static final int bpin_military_police=0x7f010020;
-    public static final int bpin_navy=0x7f010021;
-    public static final int bpin_pnimia=0x7f010022;
-    public static final int bpin_police=0x7f010023;
-    public static final int bpin_praklitut=0x7f010024;
-    public static final int bpin_rabanut=0x7f010025;
-    public static final int bpin_rafua=0x7f010026;
-    public static final int bpin_shlishot=0x7f010027;
-    public static final int bpin_shoher_army=0x7f010028;
-    public static final int bpin_shoher_navy=0x7f010029;
-    public static final int bpin_shrion=0x7f01002a;
-    public static final int bpin_techni=0x7f01002b;
-    public static final int bpin_tikshuv=0x7f01002c;
-    public static final int bpin_zahal=0x7f01002d;
-    public static final int eisuf_bislak=0x7f01002e;
-    public static final int eisuf_eitam=0x7f01002f;
-    public static final int eisuf_nesher=0x7f010030;
-    public static final int eisuf_nitzan=0x7f010031;
-    public static final int eisuf_shahaf=0x7f010032;
-    public static final int extend=0x7f010033;
-    public static final int extendtick=0x7f010034;
-    public static final int handasa_abah=0x7f010035;
-    public static final int handasa_abah_center=0x7f010036;
-    public static final int handasa_bahalatz=0x7f010037;
-    public static final int handasa_center=0x7f010038;
-    public static final int handasa_gdod_asaf=0x7f010039;
-    public static final int handasa_gdod_hamahatz=0x7f01003a;
-    public static final int handasa_gdod_lahav=0x7f01003b;
-    public static final int handasa_north=0x7f01003c;
-    public static final int handasa_south=0x7f01003d;
-    public static final int handasa_yalom=0x7f01003e;
-    public static final int hinuh_gadna=0x7f01003f;
-    public static final int hinuh_teacher=0x7f010040;
-    public static final int ic_action_search=0x7f010041;
-    public static final int ic_launcher=0x7f010042;
-    public static final int idf_background=0x7f010043;
-    public static final int idf_background_darkgreen=0x7f010044;
-    public static final int idf_background_lightgreen=0x7f010045;
-    public static final int idf_icon=0x7f010046;
-    public static final int idf_logo_bg_up=0x7f010047;
-    public static final int idf_logo_bottom=0x7f010048;
-    public static final int infantry_bahad8=0x7f010049;
-    public static final int infantry_bisalmah=0x7f01004a;
-    public static final int infantry_gdod_siur=0x7f01004b;
-    public static final int infantry_givati=0x7f01004c;
-    public static final int infantry_golani=0x7f01004d;
-    public static final int infantry_herev=0x7f01004e;
-    public static final int infantry_karakal=0x7f01004f;
-    public static final int infantry_kfir=0x7f010050;
-    public static final int infantry_maraom=0x7f010051;
-    public static final int infantry_nahal=0x7f010052;
-    public static final int infantry_paratroopers=0x7f010053;
-    public static final int infantry_yehuda=0x7f010054;
-    public static final int klali_court=0x7f010055;
-    public static final int klali_dover=0x7f010056;
-    public static final int klali_matpash=0x7f010057;
-    public static final int klali_meitav=0x7f010058;
-    public static final int klali_nakhal=0x7f010059;
-    public static final int klali_praklitut=0x7f01005a;
-    public static final int kumta_airforce=0x7f01005b;
-    public static final int kumta_givati=0x7f01005c;
-    public static final int kumta_golani=0x7f01005d;
-    public static final int kumta_handasakravit=0x7f01005e;
-    public static final int kumta_kfir=0x7f01005f;
-    public static final int kumta_magav=0x7f010060;
-    public static final int kumta_magav_1=0x7f010061;
-    public static final int kumta_militarypolice=0x7f010062;
-    public static final int kumta_modiein=0x7f010063;
-    public static final int kumta_nahal=0x7f010064;
-    public static final int kumta_navy=0x7f010065;
-    public static final int kumta_navy_1=0x7f010066;
-    public static final int kumta_para=0x7f010067;
-    public static final int kumta_pikudhaoref=0x7f010068;
-    public static final int kumta_shirion=0x7f010069;
-    public static final int kumta_tothanim=0x7f01006a;
-    public static final int land_armor=0x7f01006b;
-    public static final int land_artillery=0x7f01006c;
-    public static final int land_eisuf=0x7f01006d;
-    public static final int land_formations=0x7f01006e;
-    public static final int land_handasa=0x7f01006f;
-    public static final int land_hatal=0x7f010070;
-    public static final int land_infantry=0x7f010071;
-    public static final int land_mali=0x7f010072;
-    public static final int long_button_greylight=0x7f010073;
-    public static final int long_button_white=0x7f010074;
-    public static final int long_button_yellow=0x7f010075;
-    public static final int mp_army_prison=0x7f010076;
-    public static final int mp_bahad13=0x7f010077;
-    public static final int mp_center=0x7f010078;
-    public static final int mp_gdod_erez=0x7f010079;
-    public static final int mp_gdod_taoz=0x7f01007a;
-    public static final int mp_kziut_prison=0x7f01007b;
-    public static final int mp_megido_prison=0x7f01007c;
-    public static final int mp_metzah=0x7f01007d;
-    public static final int mp_north=0x7f01007e;
-    public static final int mp_offer_camp=0x7f01007f;
-    public static final int mp_south=0x7f010080;
-    public static final int rank_alam=0x7f010081;
-    public static final int rank_aluf=0x7f010082;
-    public static final int rank_kab=0x7f010083;
-    public static final int rank_kama=0x7f010084;
-    public static final int rank_rabat=0x7f010085;
-    public static final int rank_ranag=0x7f010086;
-    public static final int rank_ranam=0x7f010087;
-    public static final int rank_rasab=0x7f010088;
-    public static final int rank_rasal=0x7f010089;
-    public static final int rank_rasam=0x7f01008a;
-    public static final int rank_rasan=0x7f01008b;
-    public static final int rank_rasar=0x7f01008c;
-    public static final int rank_rav_aluf=0x7f01008d;
-    public static final int rank_saal=0x7f01008e;
-    public static final int rank_sagem=0x7f01008f;
-    public static final int rank_samal=0x7f010090;
-    public static final int rank_samar=0x7f010091;
-    public static final int rank_segen=0x7f010092;
-    public static final int rank_seren=0x7f010093;
-    public static final int rank_taal=0x7f010094;
-    public static final int tag_air=0x7f010095;
-    public static final int tag_aka=0x7f010096;
-    public static final int tag_center=0x7f010097;
-    public static final int tag_communication=0x7f010098;
-    public static final int tag_haoref=0x7f010099;
-    public static final int tag_intel=0x7f01009a;
-    public static final int tag_land=0x7f01009b;
-    public static final int tag_maate=0x7f01009c;
-    public static final int tag_magal=0x7f01009d;
-    public static final int tag_navy=0x7f01009e;
-    public static final int tag_north=0x7f01009f;
-    public static final int tag_police=0x7f0100a0;
-    public static final int tag_south=0x7f0100a1;
-    public static final int tick=0x7f0100a2;
-    public static final int tickbig=0x7f0100a3;
+    public static final int air_anti_air=0x7f050000;
+    public static final int air_anti_air_school=0x7f050001;
+    public static final int air_baha10=0x7f050002;
+    public static final int air_baha21=0x7f050003;
+    public static final int air_baha28=0x7f050004;
+    public static final int air_baha30=0x7f050005;
+    public static final int air_baha6=0x7f050006;
+    public static final int air_baha8=0x7f050007;
+    public static final int air_bamza108=0x7f050008;
+    public static final int air_basa18=0x7f050009;
+    public static final int air_control=0x7f05000a;
+    public static final int air_kanaf1=0x7f05000b;
+    public static final int air_kanaf15=0x7f05000c;
+    public static final int air_kanaf168=0x7f05000d;
+    public static final int air_kanaf25=0x7f05000e;
+    public static final int air_kanaf4=0x7f05000f;
+    public static final int air_lahav=0x7f050010;
+    public static final int air_ofek=0x7f050011;
+    public static final int air_yaa22=0x7f050012;
+    public static final int air_yakta=0x7f050013;
+    public static final int air_yarpa=0x7f050014;
+    public static final int aka_hinuh=0x7f050015;
+    public static final int aka_klali=0x7f050016;
+    public static final int aka_mofet=0x7f050017;
+    public static final int aka_mp=0x7f050018;
+    public static final int aka_shlishot=0x7f050019;
+    public static final int aog162_hativa27=0x7f05001a;
+    public static final int aog162_hativa417=0x7f05001b;
+    public static final int aog210_hativa263=0x7f05001c;
+    public static final int aog210_hativa474=0x7f05001d;
+    public static final int aog210_hativa810=0x7f05001e;
+    public static final int aog340_hativa600=0x7f05001f;
+    public static final int aog80_eilat=0x7f050020;
+    public static final int aog80_hativa270=0x7f050021;
+    public static final int aog80_hativa515=0x7f050022;
+    public static final int aog91_hativa300=0x7f050023;
+    public static final int aog91_hativa769=0x7f050024;
+    public static final int armor_communication=0x7f050025;
+    public static final int armor_gadna=0x7f050026;
+    public static final int armor_harmash=0x7f050027;
+    public static final int armor_hativa188=0x7f050028;
+    public static final int armor_hativa401=0x7f050029;
+    public static final int armor_hativa460=0x7f05002a;
+    public static final int armor_hativa7=0x7f05002b;
+    public static final int armor_palsar=0x7f05002c;
+    public static final int armor_palsar401=0x7f05002d;
+    public static final int armor_tank_commander=0x7f05002e;
+    public static final int armor_tankist=0x7f05002f;
+    public static final int armor_tothanut=0x7f050030;
+    public static final int artillery_accuracy=0x7f050031;
+    public static final int artillery_bislat=0x7f050032;
+    public static final int artillery_fire_pillar=0x7f050033;
+    public static final int artillery_golan=0x7f050034;
+    public static final int artillery_hatam=0x7f050035;
+    public static final int artillery_kala_david=0x7f050036;
+    public static final int artillery_kala_david_pin=0x7f050037;
+    public static final int artillery_katbam=0x7f050038;
+    public static final int artillery_kidon=0x7f050039;
+    public static final int artillery_meitar=0x7f05003a;
+    public static final int artillery_meitar_1=0x7f05003b;
+    public static final int artillery_meitar_pin=0x7f05003c;
+    public static final int artillery_moran=0x7f05003d;
+    public static final int artillery_noriut=0x7f05003e;
+    public static final int artillery_shlhevet=0x7f05003f;
+    public static final int artillery_tavor=0x7f050040;
+    public static final int artillery_warrior=0x7f050041;
+    public static final int artillery_zik=0x7f050042;
+    public static final int atal_ammo=0x7f050043;
+    public static final int atal_construction=0x7f050044;
+    public static final int atal_equipment=0x7f050045;
+    public static final int atal_food=0x7f050046;
+    public static final int atal_fuel=0x7f050047;
+    public static final int atal_himush=0x7f050048;
+    public static final int atal_laom=0x7f050049;
+    public static final int atal_logistic=0x7f05004a;
+    public static final int atal_masa7000=0x7f05004b;
+    public static final int atal_medic=0x7f05004c;
+    public static final int atal_transport=0x7f05004d;
+    public static final int atal_weapon=0x7f05004e;
+    public static final int ayosh_benjamin=0x7f05004f;
+    public static final int ayosh_efraim=0x7f050050;
+    public static final int ayosh_ezion=0x7f050051;
+    public static final int ayosh_menashe=0x7f050052;
+    public static final int ayosh_shomron=0x7f050053;
+    public static final int ayosh_yehuda=0x7f050054;
+    public static final int bpin_air=0x7f050055;
+    public static final int bpin_artillery=0x7f050056;
+    public static final int bpin_eisof_kravi=0x7f050057;
+    public static final int bpin_general=0x7f050058;
+    public static final int bpin_hamihlala=0x7f050059;
+    public static final int bpin_handasa_kravit=0x7f05005a;
+    public static final int bpin_haoref=0x7f05005b;
+    public static final int bpin_himush=0x7f05005c;
+    public static final int bpin_hinuh=0x7f05005d;
+    public static final int bpin_infantry=0x7f05005e;
+    public static final int bpin_intel=0x7f05005f;
+    public static final int bpin_ktzinim=0x7f050060;
+    public static final int bpin_logistica=0x7f050061;
+    public static final int bpin_magav=0x7f050062;
+    public static final int bpin_military_police=0x7f050063;
+    public static final int bpin_navy=0x7f050064;
+    public static final int bpin_pnimia=0x7f050065;
+    public static final int bpin_police=0x7f050066;
+    public static final int bpin_praklitut=0x7f050067;
+    public static final int bpin_rabanut=0x7f050068;
+    public static final int bpin_rafua=0x7f050069;
+    public static final int bpin_shlishot=0x7f05006a;
+    public static final int bpin_shoher_army=0x7f05006b;
+    public static final int bpin_shoher_navy=0x7f05006c;
+    public static final int bpin_shrion=0x7f05006d;
+    public static final int bpin_techni=0x7f05006e;
+    public static final int bpin_tikshuv=0x7f05006f;
+    public static final int bpin_zahal=0x7f050070;
+    public static final int center_aog162=0x7f050071;
+    public static final int center_aog340=0x7f050072;
+    public static final int center_aog98=0x7f050073;
+    public static final int center_ayosh=0x7f050074;
+    public static final int comm_bahad7=0x7f050075;
+    public static final int comm_basmah=0x7f050076;
+    public static final int comm_la=0x7f050077;
+    public static final int comm_lotam=0x7f050078;
+    public static final int comm_tikshuv=0x7f050079;
+    public static final int deco_country_w=0x7f05007a;
+    public static final int deco_gvura=0x7f05007b;
+    public static final int deco_hatasha=0x7f05007c;
+    public static final int deco_hero=0x7f05007d;
+    public static final int deco_independence=0x7f05007e;
+    public static final int deco_ioz=0x7f05007f;
+    public static final int deco_kippur=0x7f050080;
+    public static final int deco_lebanon=0x7f050081;
+    public static final int deco_lebanon2=0x7f050082;
+    public static final int deco_mivzai=0x7f050083;
+    public static final int deco_mofet=0x7f050084;
+    public static final int deco_nazi=0x7f050085;
+    public static final int deco_prison=0x7f050086;
+    public static final int deco_sinai=0x7f050087;
+    public static final int deco_six_days=0x7f050088;
+    public static final int deco_volunteer=0x7f050089;
+    public static final int eisuf_ait=0x7f05008a;
+    public static final int eisuf_bislak=0x7f05008b;
+    public static final int eisuf_eitam=0x7f05008c;
+    public static final int eisuf_nesher=0x7f05008d;
+    public static final int eisuf_nitzan=0x7f05008e;
+    public static final int eisuf_shahaf=0x7f05008f;
+    public static final int eisufp_nesher=0x7f050090;
+    public static final int eisufp_nitzan=0x7f050091;
+    public static final int eisufp_shahaf=0x7f050092;
+    public static final int extend=0x7f050093;
+    public static final int extendtick=0x7f050094;
+    public static final int flag_air=0x7f050095;
+    public static final int flag_anti_air=0x7f050096;
+    public static final int flag_armor=0x7f050097;
+    public static final int flag_artillery=0x7f050098;
+    public static final int flag_comm=0x7f050099;
+    public static final int flag_fintel=0x7f05009a;
+    public static final int flag_general=0x7f05009b;
+    public static final int flag_givati=0x7f05009c;
+    public static final int flag_golani=0x7f05009d;
+    public static final int flag_handasa=0x7f05009e;
+    public static final int flag_haoref=0x7f05009f;
+    public static final int flag_himush=0x7f0500a0;
+    public static final int flag_hinuh=0x7f0500a1;
+    public static final int flag_infantry=0x7f0500a2;
+    public static final int flag_intel=0x7f0500a3;
+    public static final int flag_kfir=0x7f0500a4;
+    public static final int flag_land=0x7f0500a5;
+    public static final int flag_logistic=0x7f0500a6;
+    public static final int flag_magav=0x7f0500a7;
+    public static final int flag_medic=0x7f0500a8;
+    public static final int flag_mpolice=0x7f0500a9;
+    public static final int flag_nahal=0x7f0500aa;
+    public static final int flag_navy=0x7f0500ab;
+    public static final int flag_para=0x7f0500ac;
+    public static final int flag_rabanut=0x7f0500ad;
+    public static final int flag_ramatkal=0x7f0500ae;
+    public static final int flag_shlishot=0x7f0500af;
+    public static final int flag_zahal=0x7f0500b0;
+    public static final int gaza_center=0x7f0500b1;
+    public static final int gaza_erez=0x7f0500b2;
+    public static final int gaza_north=0x7f0500b3;
+    public static final int gaza_south=0x7f0500b4;
+    public static final int givati_p_gadsar=0x7f0500b5;
+    public static final int givati_p_orev=0x7f0500b6;
+    public static final int givati_p_palhan=0x7f0500b7;
+    public static final int givati_p_palhik=0x7f0500b8;
+    public static final int givati_p_rimon=0x7f0500b9;
+    public static final int givati_p_rotem=0x7f0500ba;
+    public static final int givati_p_sayeret=0x7f0500bb;
+    public static final int givati_p_shaked=0x7f0500bc;
+    public static final int givati_p_zabar=0x7f0500bd;
+    public static final int golani_p_aguz=0x7f0500be;
+    public static final int golani_p_gadsar=0x7f0500bf;
+    public static final int golani_p_han=0x7f0500c0;
+    public static final int golani_p_orev=0x7f0500c1;
+    public static final int golani_p_palhik=0x7f0500c2;
+    public static final int golani_p_palsar=0x7f0500c3;
+    public static final int handasa_abah=0x7f0500c4;
+    public static final int handasa_abah_center=0x7f0500c5;
+    public static final int handasa_bahalatz=0x7f0500c6;
+    public static final int handasa_center=0x7f0500c7;
+    public static final int handasa_gdod_asaf=0x7f0500c8;
+    public static final int handasa_gdod_hamahatz=0x7f0500c9;
+    public static final int handasa_gdod_lahav=0x7f0500ca;
+    public static final int handasa_north=0x7f0500cb;
+    public static final int handasa_south=0x7f0500cc;
+    public static final int handasa_yalom=0x7f0500cd;
+    public static final int hinuh_gadna=0x7f0500ce;
+    public static final int hinuh_teacher=0x7f0500cf;
+    public static final int hq_agat=0x7f0500d0;
+    public static final int hq_atal=0x7f0500d1;
+    public static final int hq_omek=0x7f0500d2;
+    public static final int iaf_air_com=0x7f0500d3;
+    public static final int iaf_air_control=0x7f0500d4;
+    public static final int iaf_air_engi=0x7f0500d5;
+    public static final int iaf_air_medic=0x7f0500d6;
+    public static final int iaf_anti_air=0x7f0500d7;
+    public static final int iaf_katbam=0x7f0500d8;
+    public static final int iaf_ktzin_anti_air=0x7f0500d9;
+    public static final int iaf_la=0x7f0500da;
+    public static final int iaf_loading=0x7f0500db;
+    public static final int iaf_pilot=0x7f0500dc;
+    public static final int iaf_shaldag=0x7f0500dd;
+    public static final int iaf_test_engi=0x7f0500de;
+    public static final int iaf_unit669=0x7f0500df;
+    public static final int iaf_yanmam=0x7f0500e0;
+    public static final int ic_action_search=0x7f0500e1;
+    public static final int ic_launcher=0x7f0500e2;
+    public static final int idf_background=0x7f0500e3;
+    public static final int idf_background_darkgreen=0x7f0500e4;
+    public static final int idf_background_lightgreen=0x7f0500e5;
+    public static final int idf_icon=0x7f0500e6;
+    public static final int idf_logo_bg_up=0x7f0500e7;
+    public static final int idf_logo_bottom=0x7f0500e8;
+    public static final int infantry_adam=0x7f0500e9;
+    public static final int infantry_bahad8=0x7f0500ea;
+    public static final int infantry_bisalmah=0x7f0500eb;
+    public static final int infantry_gdod_siur=0x7f0500ec;
+    public static final int infantry_givati=0x7f0500ed;
+    public static final int infantry_golani=0x7f0500ee;
+    public static final int infantry_herev=0x7f0500ef;
+    public static final int infantry_karakal=0x7f0500f0;
+    public static final int infantry_kfir=0x7f0500f1;
+    public static final int infantry_maraom=0x7f0500f2;
+    public static final int infantry_nahal=0x7f0500f3;
+    public static final int infantry_paratroopers=0x7f0500f4;
+    public static final int infantry_yehuda=0x7f0500f5;
+    public static final int kfir_p_duhifat=0x7f0500f6;
+    public static final int kfir_p_haruv=0x7f0500f7;
+    public static final int kfir_p_levy=0x7f0500f8;
+    public static final int kfir_p_nahal=0x7f0500f9;
+    public static final int kfir_p_nahshon=0x7f0500fa;
+    public static final int kfir_p_shimshon=0x7f0500fb;
+    public static final int klali_court=0x7f0500fc;
+    public static final int klali_dover=0x7f0500fd;
+    public static final int klali_matpash=0x7f0500fe;
+    public static final int klali_meitav=0x7f0500ff;
+    public static final int klali_nakhal=0x7f050100;
+    public static final int klali_praklitut=0x7f050101;
+    public static final int kumta_airforce=0x7f050102;
+    public static final int kumta_givati=0x7f050103;
+    public static final int kumta_golani=0x7f050104;
+    public static final int kumta_handasakravit=0x7f050105;
+    public static final int kumta_kfir=0x7f050106;
+    public static final int kumta_magav=0x7f050107;
+    public static final int kumta_magav_1=0x7f050108;
+    public static final int kumta_militarypolice=0x7f050109;
+    public static final int kumta_modiein=0x7f05010a;
+    public static final int kumta_nahal=0x7f05010b;
+    public static final int kumta_navy=0x7f05010c;
+    public static final int kumta_navy_1=0x7f05010d;
+    public static final int kumta_para=0x7f05010e;
+    public static final int kumta_pikudhaoref=0x7f05010f;
+    public static final int kumta_shirion=0x7f050110;
+    public static final int kumta_tothanim=0x7f050111;
+    public static final int land_armor=0x7f050112;
+    public static final int land_artillery=0x7f050113;
+    public static final int land_eisuf=0x7f050114;
+    public static final int land_formations=0x7f050115;
+    public static final int land_handasa=0x7f050116;
+    public static final int land_hatal=0x7f050117;
+    public static final int land_infantry=0x7f050118;
+    public static final int land_mali=0x7f050119;
+    public static final int landp_badui=0x7f05011a;
+    public static final int landp_duvdevan=0x7f05011b;
+    public static final int landp_givati=0x7f05011c;
+    public static final int landp_golani=0x7f05011d;
+    public static final int landp_herev=0x7f05011e;
+    public static final int landp_karakal=0x7f05011f;
+    public static final int landp_kfir=0x7f050120;
+    public static final int landp_lotar=0x7f050121;
+    public static final int landp_maglan=0x7f050122;
+    public static final int landp_matkal=0x7f050123;
+    public static final int landp_nahal=0x7f050124;
+    public static final int landp_oketz=0x7f050125;
+    public static final int landp_para=0x7f050126;
+    public static final int long_button_greylight=0x7f050127;
+    public static final int long_button_white=0x7f050128;
+    public static final int long_button_yellow=0x7f050129;
+    public static final int lotam_hoshen=0x7f05012a;
+    public static final int lotam_leshem=0x7f05012b;
+    public static final int lotam_mamram=0x7f05012c;
+    public static final int lotam_maof=0x7f05012d;
+    public static final int lotam_mazpen=0x7f05012e;
+    public static final int lotam_shehem=0x7f05012f;
+    public static final int mali_kfir=0x7f050130;
+    public static final int medic_center=0x7f050131;
+    public static final int medic_equipment=0x7f050132;
+    public static final int medic_merkaz=0x7f050133;
+    public static final int medic_north=0x7f050134;
+    public static final int medic_school=0x7f050135;
+    public static final int medic_shikum=0x7f050136;
+    public static final int medic_south=0x7f050137;
+    public static final int mp_army_prison=0x7f050138;
+    public static final int mp_bahad13=0x7f050139;
+    public static final int mp_center=0x7f05013a;
+    public static final int mp_gdod_erez=0x7f05013b;
+    public static final int mp_gdod_taoz=0x7f05013c;
+    public static final int mp_kziut_prison=0x7f05013d;
+    public static final int mp_megido_prison=0x7f05013e;
+    public static final int mp_metzah=0x7f05013f;
+    public static final int mp_north=0x7f050140;
+    public static final int mp_offer_camp=0x7f050141;
+    public static final int mp_south=0x7f050142;
+    public static final int nahal_p_gadsar=0x7f050143;
+    public static final int nahal_p_gdod50=0x7f050144;
+    public static final int nahal_p_gdod931=0x7f050145;
+    public static final int nahal_p_gdod932=0x7f050146;
+    public static final int nahal_p_palhan=0x7f050147;
+    public static final int nahal_p_palhik=0x7f050148;
+    public static final int nahal_p_palnat=0x7f050149;
+    public static final int nahal_p_palsar=0x7f05014a;
+    public static final int navy_bazat=0x7f05014b;
+    public static final int navy_captain=0x7f05014c;
+    public static final int navy_commando=0x7f05014d;
+    public static final int navy_control=0x7f05014e;
+    public static final int navy_control_pin=0x7f05014f;
+    public static final int navy_dabor=0x7f050150;
+    public static final int navy_eilat=0x7f050151;
+    public static final int navy_eshdod=0x7f050152;
+    public static final int navy_etlit=0x7f050153;
+    public static final int navy_haifa=0x7f050154;
+    public static final int navy_maagen=0x7f050155;
+    public static final int navy_mamtam=0x7f050156;
+    public static final int navy_mazad=0x7f050157;
+    public static final int navy_medic=0x7f050158;
+    public static final int navy_satil=0x7f050159;
+    public static final int navy_school=0x7f05015a;
+    public static final int navy_shipyard=0x7f05015b;
+    public static final int navy_snapir=0x7f05015c;
+    public static final int navy_submarine=0x7f05015d;
+    public static final int navy_yaltam=0x7f05015e;
+    public static final int north_aog143=0x7f05015f;
+    public static final int north_aog210=0x7f050160;
+    public static final int north_aog36=0x7f050161;
+    public static final int north_aog366=0x7f050162;
+    public static final int north_aog91=0x7f050163;
+    public static final int notification_action_background=0x7f050164;
+    public static final int notification_bg=0x7f050165;
+    public static final int notification_bg_low=0x7f050166;
+    public static final int notification_bg_low_normal=0x7f050167;
+    public static final int notification_bg_low_pressed=0x7f050168;
+    public static final int notification_bg_normal=0x7f050169;
+    public static final int notification_bg_normal_pressed=0x7f05016a;
+    public static final int notification_icon_background=0x7f05016b;
+    public static final int notification_template_icon_bg=0x7f05016c;
+    public static final int notification_template_icon_low_bg=0x7f05016d;
+    public static final int notification_tile_bg=0x7f05016e;
+    public static final int notify_panel_notification_icon_bg=0x7f05016f;
+    public static final int para_p_gadsar=0x7f050170;
+    public static final int para_p_haan=0x7f050171;
+    public static final int para_p_palhik=0x7f050172;
+    public static final int para_p_palnat=0x7f050173;
+    public static final int para_p_sayeret=0x7f050174;
+    public static final int pin_wings=0x7f050175;
+    public static final int police_magav=0x7f050176;
+    public static final int police_police=0x7f050177;
+    public static final int rank_alam=0x7f050178;
+    public static final int rank_aluf=0x7f050179;
+    public static final int rank_kab=0x7f05017a;
+    public static final int rank_kama=0x7f05017b;
+    public static final int rank_rabat=0x7f05017c;
+    public static final int rank_ranag=0x7f05017d;
+    public static final int rank_ranam=0x7f05017e;
+    public static final int rank_rasab=0x7f05017f;
+    public static final int rank_rasal=0x7f050180;
+    public static final int rank_rasam=0x7f050181;
+    public static final int rank_rasan=0x7f050182;
+    public static final int rank_rasar=0x7f050183;
+    public static final int rank_rav_aluf=0x7f050184;
+    public static final int rank_saal=0x7f050185;
+    public static final int rank_sagem=0x7f050186;
+    public static final int rank_samal=0x7f050187;
+    public static final int rank_samar=0x7f050188;
+    public static final int rank_segen=0x7f050189;
+    public static final int rank_seren=0x7f05018a;
+    public static final int rank_taal=0x7f05018b;
+    public static final int south_aog252=0x7f05018c;
+    public static final int south_aog80=0x7f05018d;
+    public static final int south_gaza=0x7f05018e;
+    public static final int tag_air=0x7f05018f;
+    public static final int tag_aka=0x7f050190;
+    public static final int tag_center=0x7f050191;
+    public static final int tag_comm=0x7f050192;
+    public static final int tag_communication=0x7f050193;
+    public static final int tag_haoref=0x7f050194;
+    public static final int tag_hq=0x7f050195;
+    public static final int tag_intel=0x7f050196;
+    public static final int tag_land=0x7f050197;
+    public static final int tag_maate=0x7f050198;
+    public static final int tag_magal=0x7f050199;
+    public static final int tag_navy=0x7f05019a;
+    public static final int tag_north=0x7f05019b;
+    public static final int tag_police=0x7f05019c;
+    public static final int tag_south=0x7f05019d;
+    public static final int tick=0x7f05019e;
+    public static final int tickbig=0x7f05019f;
   }
   public static final class id {
-    public static final int MenuExit=0x7f020000;
-    public static final int MenuInfo=0x7f020001;
-    public static final int MenuStart=0x7f020002;
-    public static final int answer_display=0x7f020003;
-    public static final int answer_input=0x7f020004;
-    public static final int button_sub1=0x7f020005;
-    public static final int button_sub2=0x7f020006;
-    public static final int button_sub3=0x7f020007;
-    public static final int button_sub4=0x7f020008;
-    public static final int button_sub5=0x7f020009;
-    public static final int button_sub6=0x7f02000a;
-    public static final int button_sub7=0x7f02000b;
-    public static final int button_sub8=0x7f02000c;
-    public static final int check_button=0x7f02000d;
-    public static final int correct_image_id=0x7f02000e;
-    public static final int correct_text=0x7f02000f;
-    public static final int dargot_list=0x7f020010;
-    public static final int dbextend=0x7f020011;
-    public static final int dbtextview=0x7f020012;
-    public static final int debug_tv=0x7f020013;
-    public static final int grid_image_id=0x7f020014;
-    public static final int gridview=0x7f020015;
-    public static final int guessed_image=0x7f020016;
-    public static final int hayl_list=0x7f020017;
-    public static final int kumtot_list=0x7f020018;
-    public static final int menu_settings=0x7f020019;
-    public static final int not_found=0x7f02001a;
-    public static final int progressBar1=0x7f02001b;
-    public static final int scrollView1=0x7f02001c;
-    public static final int sikut_list=0x7f02001d;
-    public static final int start_menu_image=0x7f02001e;
-    public static final int textView1=0x7f02001f;
-    public static final int widget0=0x7f020020;
-    public static final int zoomed_image=0x7f020021;
+    public static final int MenuExit=0x7f060000;
+    public static final int MenuInfo=0x7f060001;
+    public static final int MenuStart=0x7f060002;
+    public static final int action0=0x7f060003;
+    public static final int action_container=0x7f060004;
+    public static final int action_divider=0x7f060005;
+    public static final int action_image=0x7f060006;
+    public static final int action_text=0x7f060007;
+    public static final int actions=0x7f060008;
+    public static final int answer_display=0x7f060009;
+    public static final int answer_input=0x7f06000a;
+    public static final int async=0x7f06000b;
+    public static final int blocking=0x7f06000c;
+    public static final int button_sub1=0x7f06000d;
+    public static final int button_sub2=0x7f06000e;
+    public static final int button_sub3=0x7f06000f;
+    public static final int button_sub4=0x7f060010;
+    public static final int button_sub5=0x7f060011;
+    public static final int button_sub6=0x7f060012;
+    public static final int button_sub7=0x7f060013;
+    public static final int button_sub8=0x7f060014;
+    public static final int cancel_action=0x7f060015;
+    public static final int check_button=0x7f060016;
+    public static final int chronometer=0x7f060017;
+    public static final int correct_image_id=0x7f060018;
+    public static final int correct_text=0x7f060019;
+    public static final int dargot_list=0x7f06001a;
+    public static final int dbextend=0x7f06001b;
+    public static final int debug_tv=0x7f06001c;
+    public static final int end_padder=0x7f06001d;
+    public static final int forever=0x7f06001e;
+    public static final int grid_image_id=0x7f06001f;
+    public static final int gridview=0x7f060020;
+    public static final int guessed_image=0x7f060021;
+    public static final int hayl_list=0x7f060022;
+    public static final int icon=0x7f060023;
+    public static final int icon_group=0x7f060024;
+    public static final int info=0x7f060025;
+    public static final int italic=0x7f060026;
+    public static final int kumtot_list=0x7f060027;
+    public static final int line1=0x7f060028;
+    public static final int line3=0x7f060029;
+    public static final int media_actions=0x7f06002a;
+    public static final int menu_settings=0x7f06002b;
+    public static final int normal=0x7f06002c;
+    public static final int not_found=0x7f06002d;
+    public static final int notification_background=0x7f06002e;
+    public static final int notification_main_column=0x7f06002f;
+    public static final int notification_main_column_container=0x7f060030;
+    public static final int progressBar1=0x7f060031;
+    public static final int right_icon=0x7f060032;
+    public static final int right_side=0x7f060033;
+    public static final int scrollView1=0x7f060034;
+    public static final int sikut_list=0x7f060035;
+    public static final int start_menu_image=0x7f060036;
+    public static final int status_bar_latest_event_content=0x7f060037;
+    public static final int text=0x7f060038;
+    public static final int text2=0x7f060039;
+    public static final int textView1=0x7f06003a;
+    public static final int time=0x7f06003b;
+    public static final int title=0x7f06003c;
+    public static final int widget0=0x7f06003d;
+    public static final int zoomed_image=0x7f06003e;
+  }
+  public static final class integer {
+    public static final int cancel_button_image_alpha=0x7f070000;
+    public static final int status_bar_notification_info_maxnum=0x7f070001;
   }
   public static final class layout {
-    public static final int activity_app_info=0x7f030000;
-    public static final int activity_grid_display=0x7f030001;
-    public static final int activity_grid_extend=0x7f030002;
-    public static final int activity_image_display=0x7f030003;
-    public static final int activity_main=0x7f030004;
-    public static final int activity_subject_menu=0x7f030005;
-    public static final int activity_subject_menu_old=0x7f030006;
-    public static final int correct_answer_display=0x7f030007;
-    public static final int grid_item_view=0x7f030008;
-    public static final int grid_not_found=0x7f030009;
-    public static final int grid_splash=0x7f03000a;
+    public static final int activity_app_info=0x7f080000;
+    public static final int activity_grid_display=0x7f080001;
+    public static final int activity_grid_extend=0x7f080002;
+    public static final int activity_image_display=0x7f080003;
+    public static final int activity_main=0x7f080004;
+    public static final int activity_subject_menu=0x7f080005;
+    public static final int activity_subject_menu_old=0x7f080006;
+    public static final int correct_answer_display=0x7f080007;
+    public static final int grid_item_view=0x7f080008;
+    public static final int grid_not_found=0x7f080009;
+    public static final int grid_splash=0x7f08000a;
+    public static final int notification_action=0x7f08000b;
+    public static final int notification_action_tombstone=0x7f08000c;
+    public static final int notification_media_action=0x7f08000d;
+    public static final int notification_media_cancel_action=0x7f08000e;
+    public static final int notification_template_big_media=0x7f08000f;
+    public static final int notification_template_big_media_custom=0x7f080010;
+    public static final int notification_template_big_media_narrow=0x7f080011;
+    public static final int notification_template_big_media_narrow_custom=0x7f080012;
+    public static final int notification_template_custom_big=0x7f080013;
+    public static final int notification_template_icon_group=0x7f080014;
+    public static final int notification_template_lines_media=0x7f080015;
+    public static final int notification_template_media=0x7f080016;
+    public static final int notification_template_media_custom=0x7f080017;
+    public static final int notification_template_part_chronometer=0x7f080018;
+    public static final int notification_template_part_time=0x7f080019;
   }
   public static final class menu {
-    public static final int activity_app_info=0x7f040000;
-    public static final int activity_dargot_display=0x7f040001;
-    public static final int activity_dis_pin=0x7f040002;
-    public static final int activity_dis_pin_info=0x7f040003;
-    public static final int activity_dis_rank=0x7f040004;
-    public static final int activity_dis_rank_info=0x7f040005;
-    public static final int activity_dis_tag=0x7f040006;
-    public static final int activity_dis_tag_info=0x7f040007;
-    public static final int activity_dis_wear=0x7f040008;
-    public static final int activity_dis_wear_info=0x7f040009;
-    public static final int activity_display__tag=0x7f04000a;
-    public static final int activity_general_logo_info=0x7f04000b;
-    public static final int activity_grid_display=0x7f04000c;
-    public static final int activity_grid_extend=0x7f04000d;
-    public static final int activity_hail_tag_display=0x7f04000e;
-    public static final int activity_hayl_tag=0x7f04000f;
-    public static final int activity_hayl_tag_display=0x7f040010;
-    public static final int activity_image_display=0x7f040011;
-    public static final int activity_kumtot_display=0x7f040012;
-    public static final int activity_main=0x7f040013;
-    public static final int activity_ngrid_display=0x7f040014;
-    public static final int activity_sikut_display=0x7f040015;
-    public static final int activity_subject_menu=0x7f040016;
-    public static final int icon_display=0x7f040017;
-    public static final int logo_grid_general=0x7f040018;
+    public static final int activity_app_info=0x7f090000;
+    public static final int activity_dargot_display=0x7f090001;
+    public static final int activity_dis_pin=0x7f090002;
+    public static final int activity_dis_pin_info=0x7f090003;
+    public static final int activity_dis_rank=0x7f090004;
+    public static final int activity_dis_rank_info=0x7f090005;
+    public static final int activity_dis_tag=0x7f090006;
+    public static final int activity_dis_tag_info=0x7f090007;
+    public static final int activity_dis_wear=0x7f090008;
+    public static final int activity_dis_wear_info=0x7f090009;
+    public static final int activity_display__tag=0x7f09000a;
+    public static final int activity_general_logo_info=0x7f09000b;
+    public static final int activity_grid_display=0x7f09000c;
+    public static final int activity_grid_extend=0x7f09000d;
+    public static final int activity_hail_tag_display=0x7f09000e;
+    public static final int activity_hayl_tag=0x7f09000f;
+    public static final int activity_hayl_tag_display=0x7f090010;
+    public static final int activity_image_display=0x7f090011;
+    public static final int activity_kumtot_display=0x7f090012;
+    public static final int activity_main=0x7f090013;
+    public static final int activity_ngrid_display=0x7f090014;
+    public static final int activity_sikut_display=0x7f090015;
+    public static final int activity_subject_menu=0x7f090016;
+    public static final int icon_display=0x7f090017;
+    public static final int logo_grid_general=0x7f090018;
   }
   public static final class string {
-    public static final int MButt1=0x7f050000;
-    public static final int MButt2=0x7f050001;
-    public static final int MButt3=0x7f050002;
-    public static final int MButt4=0x7f050003;
-    public static final int MButt5=0x7f050004;
-    public static final int MButt6=0x7f050005;
-    public static final int MButt7=0x7f050006;
-    public static final int MButt8=0x7f050007;
-    public static final int MenuExit=0x7f050008;
-    public static final int MenuInfo=0x7f050009;
-    public static final int MenuStart=0x7f05000a;
-    public static final int app_info=0x7f05000b;
-    public static final int app_name=0x7f05000c;
-    public static final int check_button=0x7f05000d;
-    public static final int hello_world=0x7f05000e;
-    public static final int image_guess_hint=0x7f05000f;
-    public static final int menu_settings=0x7f050010;
-    public static final int title_activity_app_info=0x7f050011;
-    public static final int title_activity_dis_pin=0x7f050012;
-    public static final int title_activity_dis_pin_info=0x7f050013;
-    public static final int title_activity_dis_rank=0x7f050014;
-    public static final int title_activity_dis_rank_info=0x7f050015;
-    public static final int title_activity_dis_tag=0x7f050016;
-    public static final int title_activity_dis_tag_info=0x7f050017;
-    public static final int title_activity_dis_wear=0x7f050018;
-    public static final int title_activity_dis_wear_info=0x7f050019;
-    public static final int title_activity_grid_display=0x7f05001a;
-    public static final int title_activity_grid_extend=0x7f05001b;
-    public static final int title_activity_image_display=0x7f05001c;
-    public static final int title_activity_main=0x7f05001d;
-    public static final int title_activity_ngrid_display=0x7f05001e;
-    public static final int title_activity_subject_menu=0x7f05001f;
-    public static final int zoomed_image_desc=0x7f050020;
+    public static final int MButt1=0x7f0a0000;
+    public static final int MButt2=0x7f0a0001;
+    public static final int MButt3=0x7f0a0002;
+    public static final int MButt4=0x7f0a0003;
+    public static final int MButt5=0x7f0a0004;
+    public static final int MButt6=0x7f0a0005;
+    public static final int MButt7=0x7f0a0006;
+    public static final int MButt8=0x7f0a0007;
+    public static final int MenuExit=0x7f0a0008;
+    public static final int MenuInfo=0x7f0a0009;
+    public static final int MenuStart=0x7f0a000a;
+    public static final int app_info=0x7f0a000b;
+    public static final int app_name=0x7f0a000c;
+    public static final int check_button=0x7f0a000d;
+    public static final int hello_world=0x7f0a000e;
+    public static final int image_guess_hint=0x7f0a000f;
+    public static final int menu_settings=0x7f0a0010;
+    public static final int status_bar_notification_info_overflow=0x7f0a0011;
+    public static final int title_activity_app_info=0x7f0a0012;
+    public static final int title_activity_dis_pin=0x7f0a0013;
+    public static final int title_activity_dis_pin_info=0x7f0a0014;
+    public static final int title_activity_dis_rank=0x7f0a0015;
+    public static final int title_activity_dis_rank_info=0x7f0a0016;
+    public static final int title_activity_dis_tag=0x7f0a0017;
+    public static final int title_activity_dis_tag_info=0x7f0a0018;
+    public static final int title_activity_dis_wear=0x7f0a0019;
+    public static final int title_activity_dis_wear_info=0x7f0a001a;
+    public static final int title_activity_grid_display=0x7f0a001b;
+    public static final int title_activity_grid_extend=0x7f0a001c;
+    public static final int title_activity_image_display=0x7f0a001d;
+    public static final int title_activity_main=0x7f0a001e;
+    public static final int title_activity_ngrid_display=0x7f0a001f;
+    public static final int title_activity_subject_menu=0x7f0a0020;
+    public static final int zoomed_image_desc=0x7f0a0021;
   }
   public static final class style {
-    public static final int AppTheme=0x7f060000;
+    public static final int AppTheme=0x7f0b0000;
+    public static final int TextAppearance_Compat_Notification=0x7f0b0001;
+    public static final int TextAppearance_Compat_Notification_Info=0x7f0b0002;
+    public static final int TextAppearance_Compat_Notification_Info_Media=0x7f0b0003;
+    public static final int TextAppearance_Compat_Notification_Line2=0x7f0b0004;
+    public static final int TextAppearance_Compat_Notification_Line2_Media=0x7f0b0005;
+    public static final int TextAppearance_Compat_Notification_Media=0x7f0b0006;
+    public static final int TextAppearance_Compat_Notification_Time=0x7f0b0007;
+    public static final int TextAppearance_Compat_Notification_Time_Media=0x7f0b0008;
+    public static final int TextAppearance_Compat_Notification_Title=0x7f0b0009;
+    public static final int TextAppearance_Compat_Notification_Title_Media=0x7f0b000a;
+    public static final int Widget_Compat_NotificationActionContainer=0x7f0b000b;
+    public static final int Widget_Compat_NotificationActionText=0x7f0b000c;
+  }
+  public static final class styleable {
+    /**
+     * Attributes that can be used with a FontFamily.
+     * <p>Includes the following attributes:</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Attribute</th><th>Description</th></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.gennady9.idf.logo.quiz:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.gennady9.idf.logo.quiz:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.gennady9.idf.logo.quiz:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.gennady9.idf.logo.quiz:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.gennady9.idf.logo.quiz:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.gennady9.idf.logo.quiz:fontProviderQuery}</code></td><td></td></tr>
+     * </table>
+     * @see #FontFamily_fontProviderAuthority
+     * @see #FontFamily_fontProviderCerts
+     * @see #FontFamily_fontProviderFetchStrategy
+     * @see #FontFamily_fontProviderFetchTimeout
+     * @see #FontFamily_fontProviderPackage
+     * @see #FontFamily_fontProviderQuery
+     */
+    public static final int[] FontFamily={
+      0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 
+      0x7f010005, 0x7f010006
+    };
+    /**
+     * <p>This symbol is the offset where the {@link com.gennady9.idf.logo.quiz.R.attr#fontProviderAuthority}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name com.gennady9.idf.logo.quiz:fontProviderAuthority
+     */
+    public static final int FontFamily_fontProviderAuthority=0;
+    /**
+     * <p>This symbol is the offset where the {@link com.gennady9.idf.logo.quiz.R.attr#fontProviderCerts}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name com.gennady9.idf.logo.quiz:fontProviderCerts
+     */
+    public static final int FontFamily_fontProviderCerts=1;
+    /**
+     * <p>This symbol is the offset where the {@link com.gennady9.idf.logo.quiz.R.attr#fontProviderFetchStrategy}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>async</td><td>1</td><td></td></tr>
+     * <tr><td>blocking</td><td>0</td><td></td></tr>
+     * </table>
+     *
+     * @attr name com.gennady9.idf.logo.quiz:fontProviderFetchStrategy
+     */
+    public static final int FontFamily_fontProviderFetchStrategy=2;
+    /**
+     * <p>This symbol is the offset where the {@link com.gennady9.idf.logo.quiz.R.attr#fontProviderFetchTimeout}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be an integer value, such as "<code>100</code>".
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
+     * </table>
+     *
+     * @attr name com.gennady9.idf.logo.quiz:fontProviderFetchTimeout
+     */
+    public static final int FontFamily_fontProviderFetchTimeout=3;
+    /**
+     * <p>This symbol is the offset where the {@link com.gennady9.idf.logo.quiz.R.attr#fontProviderPackage}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name com.gennady9.idf.logo.quiz:fontProviderPackage
+     */
+    public static final int FontFamily_fontProviderPackage=4;
+    /**
+     * <p>This symbol is the offset where the {@link com.gennady9.idf.logo.quiz.R.attr#fontProviderQuery}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name com.gennady9.idf.logo.quiz:fontProviderQuery
+     */
+    public static final int FontFamily_fontProviderQuery=5;
+    /**
+     * Attributes that can be used with a FontFamilyFont.
+     * <p>Includes the following attributes:</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Attribute</th><th>Description</th></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.gennady9.idf.logo.quiz:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.gennady9.idf.logo.quiz:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.gennady9.idf.logo.quiz:fontWeight}</code></td><td></td></tr>
+     * </table>
+     * @see #FontFamilyFont_font
+     * @see #FontFamilyFont_fontStyle
+     * @see #FontFamilyFont_fontWeight
+     */
+    public static final int[] FontFamilyFont={
+      0x7f010000, 0x7f010007, 0x7f010008
+    };
+    /**
+     * <p>This symbol is the offset where the {@link com.gennady9.idf.logo.quiz.R.attr#font}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name com.gennady9.idf.logo.quiz:font
+     */
+    public static final int FontFamilyFont_font=0;
+    /**
+     * <p>This symbol is the offset where the {@link com.gennady9.idf.logo.quiz.R.attr#fontStyle}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>italic</td><td>1</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * </table>
+     *
+     * @attr name com.gennady9.idf.logo.quiz:fontStyle
+     */
+    public static final int FontFamilyFont_fontStyle=1;
+    /**
+     * <p>This symbol is the offset where the {@link com.gennady9.idf.logo.quiz.R.attr#fontWeight}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>May be an integer value, such as "<code>100</code>".
+     *
+     * @attr name com.gennady9.idf.logo.quiz:fontWeight
+     */
+    public static final int FontFamilyFont_fontWeight=2;
   }
 }

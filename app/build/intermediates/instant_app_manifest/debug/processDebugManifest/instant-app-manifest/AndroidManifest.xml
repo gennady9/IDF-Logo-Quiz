@@ -6,8 +6,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="4"
-        android:targetSdkVersion="15" />
+        android:minSdkVersion="16"
+        android:targetSdkVersion="26" />
 
     <application
         android:allowBackup="true"
@@ -64,6 +64,10 @@
             android:name="com.gennady9.idf.logo.quiz.GridExtend"
             android:label="@string/title_activity_grid_extend" >
         </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
