@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gennady9.idf.logo.quiz"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/idf_icon"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.gennady9.idf.logo.quiz.MainActivity"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.gennady9.idf.logo.quiz.SubjectMenu"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_subject_menu"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gennady9.idf.logo.quiz.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.gennady9.idf.logo.quiz.ImageDisplay"
+            android:label="@string/title_activity_image_display"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gennady9.idf.logo.quiz.DisTag" />
+        </activity>
+        <activity
+            android:name="com.gennady9.idf.logo.quiz.AppInfo"
+            android:label="@string/title_activity_app_info"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gennady9.idf.logo.quiz.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.gennady9.idf.logo.quiz.GridDisplay"
+            android:label="@string/title_activity_ngrid_display"
+            android:parentActivityName="com.gennady9.idf.logo.quiz.SubjectMenu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gennady9.idf.logo.quiz.SubjectMenu" />
+        </activity>
+        <activity
+            android:name="com.gennady9.idf.logo.quiz.GridExtend"
+            android:label="@string/title_activity_grid_extend" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.gennady9.idf.logo.quiz.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

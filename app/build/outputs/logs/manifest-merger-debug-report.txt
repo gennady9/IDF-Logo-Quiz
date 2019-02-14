@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:9:5-62:19
+	android:label
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:11:9-42
+	android:allowBackup
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.gennady9.idf.logo.quiz.MainActivity
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:14:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:17:13-56
+	android:configChanges
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:16:13-48
+	android:name
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:15:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.gennady9.idf.logo.quiz.SubjectMenu
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:28:13-64
+	android:configChanges
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:26:13-66
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:30:13-32:75
+	android:value
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:32:17-72
+	android:name
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:31:17-63
+activity#com.gennady9.idf.logo.quiz.ImageDisplay
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:screenOrientation
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:36:13-65
+	android:name
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:35:13-67
+activity#com.gennady9.idf.logo.quiz.AppInfo
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:42:9-49:20
+	android:screenOrientation
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:44:13-60
+	android:name
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:43:13-62
+activity#com.gennady9.idf.logo.quiz.GridDisplay
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:50:9-57:20
+	android:parentActivityName
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:53:13-80
+	android:label
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:52:13-65
+	android:name
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:51:13-66
+activity#com.gennady9.idf.logo.quiz.GridExtend
+ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:60:13-63
+	android:name
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml:59:13-65
+uses-sdk
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\genna\StudioProjects\IDFLogoQuiz\app\src\main\AndroidManifest.xml

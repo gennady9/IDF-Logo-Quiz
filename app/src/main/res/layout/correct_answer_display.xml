@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF" >
+
+    <ImageView
+        android:id="@+id/guessed_image"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@string/zoomed_image_desc"
+        android:src="@drawable/bpin_zahal" />
+
+    <TextView
+        android:id="@+id/correct_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/guessed_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:text="תשובה נכונה!"
+        android:textColor="#00ff00"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/answer_display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/correct_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:text="Answer"
+        android:textSize="30dp" />
+
+</RelativeLayout>

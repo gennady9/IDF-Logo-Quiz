@@ -1,0 +1,822 @@
+[
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_police.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_police.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_airforce.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_airforce.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_bahad13.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_bahad13.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_bislat.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_bislat.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_not_found.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\grid_not_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idf_background_lightgreen.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\idf_background_lightgreen.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_samal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_samal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_klali_dover.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\klali_dover.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tick.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_magav.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_magav.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aka_mp.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\aka_mp.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_gdod_lahav.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_gdod_lahav.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_army_prison.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_army_prison.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_klali_meitav.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\klali_meitav.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_haoref.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_haoref.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_hatam.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_hatam.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_icon_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\icon_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idf_background_darkgreen.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\idf_background_darkgreen.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_rank_info.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_rank_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_yehuda.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_yehuda.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_infantry.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\land_infantry.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_south.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_south.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_wear.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_wear.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_ranag.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_ranag.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eisuf_nitzan.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\eisuf_nitzan.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_bahalatz.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_bahalatz.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_grid_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_grid_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_artillery.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_artillery.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_rank.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_rank.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_kfir.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_kfir.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_sikut_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_sikut_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_tikshuv.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_tikshuv.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hinuh_teacher.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\hinuh_teacher.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_communication.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_communication.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_artillery.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\land_artillery.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_long_button_yellow.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\long_button_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_grid_extend.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_grid_extend.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_grid_extend.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_grid_extend.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_image_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_kama.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_kama.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_app_info.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_app_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_hayl_tag.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_hayl_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_magal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_magal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_praklitut.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_praklitut.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_fire_pillar.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_fire_pillar.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_zahal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_zahal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_intel.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_intel.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_general.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_general.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_kidon.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_kidon.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_shlishot.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_shlishot.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_navy_1.jpg.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_navy_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_haoref.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_haoref.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_kala_david.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_kala_david.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_gdod_hamahatz.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_gdod_hamahatz.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_maate.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_maate.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dargot_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dargot_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_shrion.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_shrion.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_splash.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\grid_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idf_icon.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\idf_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_north.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_north.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_logo_grid_general.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\logo_grid_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_techni.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_techni.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_gdod_asaf.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_gdod_asaf.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_segen.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_segen.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_klali_matpash.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\klali_matpash.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eisuf_shahaf.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\eisuf_shahaf.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_meitar_1.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_meitar_1.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_givati.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_givati.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_gdod_erez.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_gdod_erez.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_armor.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\land_armor.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_hamihlala.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_hamihlala.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_ktzinim.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_ktzinim.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_tavor.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_tavor.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_shirion.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_shirion.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_saal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_saal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subject_menu_old.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_subject_menu_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_givati.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_givati.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_alam.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_alam.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_ngrid_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_ngrid_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eisuf_eitam.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\eisuf_eitam.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_klali_praklitut.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\klali_praklitut.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_eisof_kravi.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_eisof_kravi.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_offer_camp.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_offer_camp.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_display__tag.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_display__tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_rasan.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_rasan.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_hatal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\land_hatal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_center.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_center.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_long_button_white.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\long_button_white.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armor_hativa401.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\armor_hativa401.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_grid_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_grid_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_klali_court.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\klali_court.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_nahal.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_nahal.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aka_shlishot.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\aka_shlishot.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_modiein.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_modiein.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_eisuf.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\land_eisuf.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_south.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_south.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_north.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_north.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_meitar.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_meitar.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subject_menu.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_subject_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_golan.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_golan.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_kab.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_kab.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_navy.jpg.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_navy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_para.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_para.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_wear_info.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_wear_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_maraom.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_maraom.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_pin.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_pnimia.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_pnimia.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_abah.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_abah.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_navy.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_navy.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_center.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_center.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_militarypolice.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_militarypolice.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_south.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_south.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armor_hativa7.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\armor_hativa7.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_yalom.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_yalom.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_hayl_tag_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_hayl_tag_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hinuh_gadna.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\hinuh_gadna.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aka_klali.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\aka_klali.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extend.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\extend.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_golani.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_golani.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_land.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_land.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_intel.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_intel.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_samar.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_samar.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extendtick.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\extendtick.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_rav_aluf.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_rav_aluf.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idf_background.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\idf_background.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_long_button_greylight.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\long_button_greylight.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idf_logo_bg_up.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\idf_logo_bg_up.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_north.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_north.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_navy.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_navy.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_correct_answer_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\correct_answer_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_megido_prison.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_megido_prison.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_nahal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_nahal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_shlhevet.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_shlhevet.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_aka.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_aka.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_gdod_taoz.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_gdod_taoz.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_aluf.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_aluf.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_pikudhaoref.jpg.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_pikudhaoref.jpg"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_magav_1.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_magav_1.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_tothanim.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_tothanim.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_abah_center.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_abah_center.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_military_police.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_military_police.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_shoher_navy.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_shoher_navy.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_herev.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_herev.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_rasab.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_rasab.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_tag_info.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_tag_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_app_info.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_app_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_ranam.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_ranam.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_seren.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_seren.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_general_logo_info.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_general_logo_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_karakal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_karakal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_rasam.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_rasam.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eisuf_bislak.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\eisuf_bislak.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_item_view.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\grid_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armor_hativa460.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\armor_hativa460.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_rabat.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_rabat.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_sagem.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_sagem.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_golani.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_golani.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_air.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_air.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_tag.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_kziut_prison.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_kziut_prison.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_subject_menu.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_subject_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_hinuh.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_hinuh.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aka_hinuh.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\aka_hinuh.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_rasal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_rasal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_bisalmah.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_bisalmah.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_rafua.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_rafua.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aka_mofet.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\aka_mofet.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_metzah.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\mp_metzah.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_taal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_taal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_kfir.jpg.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_kfir.jpg"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_logistica.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_logistica.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_air.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_air.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_handasakravit.jpg.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_handasakravit.jpg"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_magav.gif.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_magav.gif"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_center.jpg.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_center.jpg"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_pin_info.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_pin_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_himush.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_himush.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_rasar.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_rasar.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armor_hativa188.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\armor_hativa188.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_image_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_image_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_formations.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\land_formations.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eisuf_nesher.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\eisuf_nesher.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_rabanut.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_rabanut.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_gdod_siur.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_gdod_siur.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_kumtot_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_kumtot_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_klali_nakhal.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\klali_nakhal.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_bahad8.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_bahad8.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_hail_tag_display.xml.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_hail_tag_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_shoher_army.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_shoher_army.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_handasa.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\land_handasa.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_paratroopers.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_paratroopers.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tickbig.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tickbig.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_handasa_kravit.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_handasa_kravit.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_mali.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\land_mali.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_police.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_police.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idf_logo_bottom.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\idf_logo_bottom.png"
+    }
+]

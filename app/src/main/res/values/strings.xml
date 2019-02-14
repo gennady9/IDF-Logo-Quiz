@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IDF Logo Quiz</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">IDF Logo Quiz</string>
+    <string name="MenuStart">התחל</string>
+    <string name="MenuInfo">על היישום</string>
+    <string name="MenuExit">יציאה</string>
+    <string name="title_activity_subject_menu">בחירת קטגוריה</string>
+    <string name="MButt1">סיכות כומתה</string>
+    <string name="MButt2">תגי יחידה - חילות</string>
+    <string name="MButt3">כומתות</string>
+    <string name="MButt4">דרגות</string>
+    <string name="MButt5">סיכות</string>
+    <string name="MButt7">דגלי יחידות</string>
+    <string name="MButt6">עיטורים,צל"שים,מדליות</string>
+    <string name="MButt8">סמלי בונוס</string>
+    <string name="title_activity_dis_tag">תגי היחידות</string>
+    <string name="title_activity_dis_tag_info">מידע על התג</string>
+    <string name="title_activity_dis_wear">לבוש צבאי</string>
+    <string name="title_activity_dis_wear_info">מידע על הפריט</string>
+    <string name="title_activity_dis_pin">סיכות וסיכות כומתה</string>
+    <string name="title_activity_dis_pin_info">מידע על הסיכה</string>
+    <string name="title_activity_dis_rank">דרגות צבאיות</string>
+    <string name="title_activity_dis_rank_info">מידע על הדרגה</string>
+    <string name="zoomed_image_desc">Zoomed image</string>
+    <string name="check_button">בדוק</string>
+    <string name="title_activity_image_display">של מי הלוגו?</string>
+    <string name="image_guess_hint">הכנס ניחוש</string>
+    <string name="app_info">"\n     CONTACT ME AT: \r\n gennady9@gmail.com"</string>
+    <string name="title_activity_app_info">AppInfo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_grid_display">GridDisplay</string>
+    <string name="title_activity_ngrid_display">NGridDisplay</string>
+    <string name="title_activity_grid_extend">GridExtend</string>
+
+</resources>
