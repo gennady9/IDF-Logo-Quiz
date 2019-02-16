@@ -18,13 +18,17 @@
         android:id="@+id/answer_input"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/zoomed_image"
         android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="19dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginEnd="100dp"
         android:ems="10"
         android:hint="@string/image_guess_hint"
         android:maxLength="30"
-        android:singleLine="true" 
-		android:layout_below="@+id/zoomed_image" 
-		android:layout_marginTop="25dp" >
+        android:singleLine="true">
+
         <requestFocus />
     </EditText>
 
@@ -33,16 +37,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/answer_input"
+        android:layout_marginRight="-132dp"
+        android:layout_marginEnd="-132dp"
+        android:layout_marginBottom="-52dp"
         android:layout_toLeftOf="@+id/answer_input"
         android:onClick="CheckButton"
         android:text="@string/check_button" />
-
-    <TextView
-        android:id="@+id/debug_tv"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@+id/check_button"
-        android:text="Debug Tv" />
 
 </RelativeLayout>

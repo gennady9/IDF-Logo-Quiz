@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.gennady9.idf.logo.quiz"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.3" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -25,6 +25,16 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="www.google.com"
+                    android:scheme="https" />
+            </intent-filter>
         </activity>
         <activity
             android:name="com.gennady9.idf.logo.quiz.SubjectMenu"
@@ -38,11 +48,7 @@
         <activity
             android:name="com.gennady9.idf.logo.quiz.ImageDisplay"
             android:label="@string/title_activity_image_display"
-            android:screenOrientation="portrait" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.gennady9.idf.logo.quiz.DisTag" />
-        </activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.gennady9.idf.logo.quiz.AppInfo"
             android:label="@string/title_activity_app_info"
@@ -53,16 +59,13 @@
         </activity>
         <activity
             android:name="com.gennady9.idf.logo.quiz.GridDisplay"
-            android:label="@string/title_activity_ngrid_display"
-            android:parentActivityName="com.gennady9.idf.logo.quiz.SubjectMenu" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.gennady9.idf.logo.quiz.SubjectMenu" />
+            android:label="@string/title_activity_ngrid_display" >
+
+            <!-- android:parentActivityName="com.gennady9.idf.logo.quiz.SubjectMenu"> -->
         </activity>
         <activity
             android:name="com.gennady9.idf.logo.quiz.GridExtend"
-            android:label="@string/title_activity_grid_extend" >
-        </activity>
+            android:label="@string/title_activity_grid_extend" />
 
         <meta-data
             android:name="android.support.VERSION"

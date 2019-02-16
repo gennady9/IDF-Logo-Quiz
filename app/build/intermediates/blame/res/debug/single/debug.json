@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_idf_icon.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable-ldpi\\idf_icon.png"
+    },
+    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_bislat.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_bislat.png"
     },
@@ -484,6 +488,10 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_meitar.png"
     },
     {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cyan_camo_bg.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\cyan_camo_bg.png"
+    },
+    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_golani_p_aguz.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\golani_p_aguz.png"
     },
@@ -782,6 +790,10 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_para_p_palhik.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\para_p_palhik.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camo_background.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\camo_background.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_south_aog252.png.flat",
@@ -1370,6 +1382,10 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subject_menu_old.xml.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_subject_menu_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_cover.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\main_cover.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_alam.png.flat",

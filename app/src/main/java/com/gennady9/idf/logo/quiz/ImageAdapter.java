@@ -91,11 +91,11 @@ public class ImageAdapter extends BaseAdapter {
       //************DATABASE START 
       
         DataBaseHelper myDbHelper = new DataBaseHelper(mContext);
-         try {myDbHelper.createDataBase();} catch (IOException ioe) {
-         	throw new Error("Unable to create database");}
+         //try {myDbHelper.createDataBase();} catch (IOException ioe) {
+         //	throw new Error("Unable to create database");}
          try {myDbHelper.openDataBase();}catch(SQLException sqle){throw sqle;} // myDbHelper.close();
         
-         Log.e("IMAGE_ADAPTER", "DEBUG_GENNA - Finding resource in position = " + String.valueOf(position));
+         //Log.e("IMAGE_ADAPTER", "DEBUG_GENNA - Finding resource in position = " + String.valueOf(position));
          String ImageName = mContext.getResources().getResourceEntryName(mThumbIds[position]);
          holder.state = myDbHelper.getState(mType, ImageName);
          //        holder.correctbool = myDbHelper.CheckCorrectAns(ImageName);

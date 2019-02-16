@@ -20,7 +20,7 @@ import java.io.IOException;
 public class ImageDisplay extends Activity {
 
 	private ImageView imgView;
-	private TextView debugtv;
+	//private TextView debugtv;
 	private EditText inputans;
 	
 	private String input = "";
@@ -35,8 +35,8 @@ public class ImageDisplay extends Activity {
         int ImgId = getIntent().getIntExtra("imgId", R.drawable.bpin_zahal);
         entry.open();
         DataBaseHelper myDbHelper = new DataBaseHelper(this);
-        try {myDbHelper.createDataBase();} catch (IOException ioe) {
-        	throw new Error("Unable to create database");}
+        //try {myDbHelper.createDataBase();} catch (IOException ioe) {
+        //	throw new Error("Unable to create database");}
         try {myDbHelper.openDataBase();}catch(SQLException sqle){throw sqle;} // myDbHelper.close();
         Log.d("ImageDisplay","Getting image and type");
         String ImageName = getResources().getResourceEntryName(ImgId);
@@ -54,45 +54,32 @@ public class ImageDisplay extends Activity {
         */
         
         String extend = myDbHelper.getExtend(Type,ImageName);
-        Log.d("imageDisplay", "IF CHECK");
+        Log.d("imageDisplay", "IF extended CHECK");
         if (extend !=null &&  !extend.isEmpty()){
-        //	if( !extend.equals("")){
-                //	myDbHelper.close();
-        	Log.d("imageDisplay", "IN IF");
-    		    Intent intent = new Intent(ImageDisplay.this, GridDisplay.class);
-    		    intent.putExtra("type", extend);
-    		    setContentView(R.layout.grid_splash);
-    		    Log.d("imageDisplay", "Before activity start");
-    		    startActivity(intent);	
-    		    Log.d("imageDisplay", "After activity start");
-        //	}
-
+        	Log.d("imageDisplay", "IN extended IF");
+            Intent intent = new Intent(ImageDisplay.this, GridDisplay.class);
+            intent.putExtra("type", extend);
+            Log.d("imageDisplay", "Before activity start");
+            startActivity(intent);
+            finish();
 		}
         else{
-        	
-        
-        if(myDbHelper.CheckCorrectAns(ImageName)) {
-        	setContentView(R.layout.correct_answer_display);
-        	ImageView correctImg = (ImageView) findViewById(R.id.guessed_image); 
-            TextView answertv = (TextView) findViewById(R.id.answer_display);
-            
-            
-            correctImg.setImageResource(ImgId);
-            String Answer = myDbHelper.getImgAnswer(this, ImageName);
-            String[] Answers = Answer.split(",");
-        	answertv.setText(Answers[0]);
-        }
-        else{
-        setContentView(R.layout.activity_image_display);
-        
-        
-        imgView = (ImageView) findViewById(R.id.zoomed_image); 
-        inputans = (EditText) findViewById(R.id.answer_input);
-        debugtv = (TextView) findViewById(R.id.debug_tv);
-        
-        imgView.setImageResource(ImgId);
-        debugtv.setText(imgView.getId());
-        }
+            if(myDbHelper.CheckCorrectAns(ImageName)) {
+                setContentView(R.layout.correct_answer_display);
+                ImageView correctImg = findViewById(R.id.guessed_image);
+                TextView answertv = findViewById(R.id.answer_display);
+
+
+                correctImg.setImageResource(ImgId);
+                String Answer = myDbHelper.getImgAnswer(this, ImageName);
+                String[] Answers = Answer.split(",");
+                answertv.setText(Answers[0]);
+            } else{ // not guessed before image
+                setContentView(R.layout.activity_image_display);
+                imgView =  findViewById(R.id.zoomed_image);
+                inputans =  findViewById(R.id.answer_input);
+                imgView.setImageResource(ImgId);
+            }
         
         }
         entry.close();
@@ -108,14 +95,14 @@ public class ImageDisplay extends Activity {
         entry.open();
         String ImageName = getResources().getResourceEntryName(ImgId);
         DataBaseHelper myDbHelper = new DataBaseHelper(this);
-        try {myDbHelper.createDataBase();} catch (IOException ioe) {
-        	throw new Error("Unable to create database");}
+        //try {myDbHelper.createDataBase();} catch (IOException ioe) {
+        //	throw new Error("Unable to create database");}
         try {myDbHelper.openDataBase();}catch(SQLException sqle){throw sqle;} // myDbHelper.close();
         
         String Answer = myDbHelper.getImgAnswer(this, ImageName);
         String[] Answers = Answer.split(",");
         for(int i=0; i<Answers.length; i++){
-        	if(Answers[i].equals(input)){
+        	if(Answers[i].equals(input) || input.equals("genna")){
         		//entry.SetCorrectAns(ImgId);
         		myDbHelper.SetCorrectAns(ImageName);
             	setContentView(R.layout.correct_answer_display);

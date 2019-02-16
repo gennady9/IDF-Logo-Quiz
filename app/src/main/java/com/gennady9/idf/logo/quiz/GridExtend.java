@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.database.SQLException;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.widget.TextView;
 
@@ -16,36 +17,27 @@ public class GridExtend extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_grid_extend);
+//		setContentView(R.layout.activity_grid_extend);
+		Log.d("GridExtend", "Entered grid extend");
 		
         int ImgId = getIntent().getIntExtra("imgId", R.drawable.bpin_zahal);
         String ImageName = getResources().getResourceEntryName(ImgId);
 		
         DataBaseHelper myDbHelper = new DataBaseHelper(this);
-        try {myDbHelper.createDataBase();} catch (IOException ioe) {
-        	throw new Error("Unable to create database");}
+//        try {myDbHelper.createDataBase();} catch (IOException ioe) {
+//        	throw new Error("Unable to create database");}
         try {myDbHelper.openDataBase();}catch(SQLException sqle){throw sqle;} // myDbHelper.close();
         
 		String extend = "tag_menu";//myDbHelper.getExtend(ImageName);
 		myDbHelper.close();
 		
-		TextView dbview = (TextView) findViewById(R.id.dbextend);
-        dbview.setText(extend);
-      /*  if (extend !=null &&  !extend.isEmpty()){
-        	dbview.setText("yeah");
-        }
-        else
-        	dbview.setText("no no..me clean here..");
-        */
-        //if(! extend.equals("null"))
-	//		dbview.setText("yeah");
-	//	else
-	//		dbview.setText("no no..me clean here..");
+//		TextView dbview = (TextView) findViewById(R.id.dbextend);
+//        dbview.setText(extend);
 		
         if (extend !=null &&  !extend.isEmpty()){
 		    Intent intent = new Intent(GridExtend.this, GridDisplay.class);
 		    intent.putExtra("type", extend);
-		    setContentView(R.layout.grid_splash);
+		    //setContentView(R.layout.grid_splash);
 		    startActivity(intent);
 		}
 		else{

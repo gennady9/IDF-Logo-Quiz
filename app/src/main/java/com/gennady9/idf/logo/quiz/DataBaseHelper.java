@@ -30,16 +30,16 @@ public class DataBaseHelper extends SQLiteOpenHelper{
  
     private final Context myContext;
  
-	public static final String KEY_ROWID = "_id";
-	public static final String KEY_TYPE = "img_type";
-	public static final String KEY_POSITION = "position";
-	public static final String KEY_NAME = "img_name";
-	public static final String KEY_EXTEND = "extend";
-	public static final String KEY_ANSWER = "answer";
-	public static final String KEY_CORRECT = "correct";
-	public static final String KEY_HINT = "hint";
-	public static final String KEY_TRIES = "tries";
-	public static final String KEY_LASTG = "last_try";
+	private static final String KEY_ROWID = "_id";
+	private static final String KEY_TYPE = "img_type";
+	private static final String KEY_POSITION = "position";
+	private static final String KEY_NAME = "img_name";
+	private static final String KEY_EXTEND = "extend";
+	private static final String KEY_ANSWER = "answer";
+	private static final String KEY_CORRECT = "correct";
+	private static final String KEY_HINT = "hint";
+	private static final String KEY_TRIES = "tries";
+	private static final String KEY_LASTG = "last_try";
     
     /**
      * Constructor
@@ -58,7 +58,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
     public void createDataBase() throws IOException{
 
     	boolean dbExist = checkDataBase();
-		Log.e("DB","DEBUG_GENNA - CREATE DATABASE ENDED");
+		//Log.e("DB","DEBUG_GENNA - CREATE DATABASE ENDED");
     	if(dbExist){
     		//do nothing - database already exist
     	}else{
@@ -93,7 +93,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
     		checkDB = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READONLY);
  
     	}catch(SQLiteException e){
-            Log.e("DB","DEBUG_GENNA - CANT OPEN DATABASE");
+           // Log.e("DB","DEBUG_GENNA - CANT OPEN DATABASE");
     		//database does't exist yet.
  
     	}
@@ -104,7 +104,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
  
     	}
  
-    	return checkDB != null ? true : false;
+    	return (checkDB != null);
     }
  
     /**
@@ -177,7 +177,8 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 
 	@Override
 	public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-		// TODO Auto-generated method stub
+	//	if(newVersion>oldVersion)
+	//		copyDataBase();
 		
 	}
  

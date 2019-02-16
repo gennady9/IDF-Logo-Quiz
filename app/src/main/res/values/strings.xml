@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">IDF Logo Quiz</string>
+    <string name="app_name">חידון סמלי צה"ל</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">IDF Logo Quiz</string>
+    <string name="title_activity_main">חידון סמלי צה"ל</string>
     <string name="MenuStart">התחל</string>
-    <string name="MenuInfo">על היישום</string>
+    <string name="MenuInfo">צור קשר</string>
     <string name="MenuExit">יציאה</string>
     <string name="title_activity_subject_menu">בחירת קטגוריה</string>
     <string name="MButt1">סיכות כומתה</string>
@@ -28,11 +28,10 @@
     <string name="check_button">בדוק</string>
     <string name="title_activity_image_display">של מי הלוגו?</string>
     <string name="image_guess_hint">הכנס ניחוש</string>
-    <string name="app_info">"\n     CONTACT ME AT: \r\n gennady9@gmail.com"</string>
+    <string name="app_info">"\n     CONTACT ME AT: \n gennady9@gmail.com"</string>
     <string name="title_activity_app_info">AppInfo</string>
-    <string name="hello_world">Hello world!</string>
     <string name="title_activity_grid_display">GridDisplay</string>
-    <string name="title_activity_ngrid_display">NGridDisplay</string>
+    <string name="title_activity_ngrid_display"> </string>
     <string name="title_activity_grid_extend">GridExtend</string>
 
 </resources>

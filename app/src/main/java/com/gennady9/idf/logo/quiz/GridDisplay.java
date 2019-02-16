@@ -22,31 +22,29 @@ public class GridDisplay extends Activity {
         super.onCreate(savedInstanceState);
   //      setContentView(R.layout.grid_splash);
        
-      /*  Integer[] ChoosenArray = {
+      /*  -- filling array with default pin
+       Integer[] ChoosenArray = {
         		R.drawable.pin_zahal	
         };*/
-        Log.d("debug","GridDisply Start");
+
         Integer[] ChoosenArray = null;
 		
-        Log.d("debug","Image Loading Started");
+        Log.d("GridDisplay","Image Loading Started");
         DataBaseHelper myDbHelper = new DataBaseHelper(this);
         try {myDbHelper.openDataBase();}catch(SQLException sqle){throw sqle;}
         String Type = getIntent().getStringExtra("type");
      	ChoosenArray = myDbHelper.getImgIdArray(this, Type);
         myDbHelper.close();
-        Log.d("debug","Image Loading ended");
+        Log.d("GridDisplay","Image Loading ended");
         
         if(ChoosenArray == null){
         	 setContentView(R.layout.grid_not_found);
         }
         else{
-        	// ChoosenArray.length();
-        //	int rows = ChoosenArray.length / 3;
-        //	for(int i=0; i < ())
             setContentView(R.layout.activity_grid_display);
             
             final Integer[] FinalArray = ChoosenArray;
-            GridView gridView = (GridView) findViewById(R.id.gridview);
+            GridView gridView = findViewById(R.id.gridview);
                 
                 // Instance of ImageAdapter Class
                 final ImageAdapter imgAdapter = new ImageAdapter(this,Type,FinalArray);
@@ -73,6 +71,8 @@ public class GridDisplay extends Activity {
 	   super.onResume();
 	   this.onCreate(null); // CHECK FOR EFFICIENTY
 	}
+
+
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
