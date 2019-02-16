@@ -792,10 +792,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\para_p_palhik.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camo_background.png.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\camo_background.png"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_south_aog252.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\south_aog252.png"
     },
@@ -1700,6 +1696,10 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_accuracy.png"
     },
     {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_rank.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\menu_rank.png"
+    },
+    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_air.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_air.png"
     },
@@ -1710,6 +1710,10 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_landp_oketz.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\landp_oketz.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple_button.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\simple_button.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",

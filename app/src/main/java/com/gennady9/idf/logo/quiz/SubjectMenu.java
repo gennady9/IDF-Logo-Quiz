@@ -79,18 +79,18 @@ public class SubjectMenu extends Activity{
     	//setContentView(R.layout.grid_splash);
     	startActivity(intent);
     	}
-    public void MButt7(View view){ //
-    	Intent intent = new Intent(this, GridDisplay.class);
-    	intent.putExtra("type", "war");
-    	//setContentView(R.layout.grid_splash);
-    	startActivity(intent);
-    	}
-    public void MButt8(View view){ //
-    	Intent intent = new Intent(this, GridDisplay.class);
-    	intent.putExtra("type", "extra");
-    	//setContentView(R.layout.grid_splash);
-    	startActivity(intent);
-    	}
+//    public void MButt7(View view){ //
+//    	Intent intent = new Intent(this, GridDisplay.class);
+//    	intent.putExtra("type", "war");
+//    	//setContentView(R.layout.grid_splash);
+//    	startActivity(intent);
+//    	}
+//    public void MButt8(View view){ //
+//    	Intent intent = new Intent(this, GridDisplay.class);
+//    	intent.putExtra("type", "extra");
+//    	//setContentView(R.layout.grid_splash);
+//    	startActivity(intent);
+//    	}
 
 }
 

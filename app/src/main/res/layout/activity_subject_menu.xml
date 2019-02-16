@@ -4,6 +4,7 @@
     android:id="@+id/scrollView1"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="@drawable/cyan_camo_bg"
 >
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
@@ -12,16 +13,26 @@
     >
 
     <Button
-    android:id="@+id/button_sub1"
-    android:layout_width="match_parent"
-    android:layout_height="100dp"
-    android:text="@string/MButt1"
-    android:onClick="MButt1"
-    />
+        android:id="@+id/button_sub1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/menu_rank"
+        android:fontFamily="sans-serif-black"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:onClick="MButt1"
+        android:text="@string/MButt1"
+        />
     <Button
     android:id="@+id/button_sub2"
     android:layout_width="match_parent"
     android:layout_height="100dp"
+    android:layout_marginTop="20dp"
+    android:background="@drawable/menu_rank"
+    android:fontFamily="sans-serif-black"
+    android:textSize="36sp"
+    android:textStyle="bold"
     android:text="@string/MButt2"
     android:onClick="MButt2"
     />
@@ -29,6 +40,11 @@
     android:id="@+id/button_sub3"
     android:layout_width="match_parent"
     android:layout_height="100dp"
+    android:layout_marginTop="20dp"
+    android:background="@drawable/menu_rank"
+    android:fontFamily="sans-serif-black"
+    android:textSize="36sp"
+    android:textStyle="bold"
     android:text="@string/MButt3"
     android:onClick="MButt3"
     />
@@ -36,6 +52,11 @@
     android:id="@+id/button_sub4"
     android:layout_width="match_parent"
     android:layout_height="100dp"
+    android:layout_marginTop="20dp"
+    android:background="@drawable/menu_rank"
+    android:fontFamily="sans-serif-black"
+    android:textSize="36sp"
+    android:textStyle="bold"
     android:text="@string/MButt4"
     android:onClick="MButt4"
     />
@@ -43,31 +64,27 @@
     android:id="@+id/button_sub5"
     android:layout_width="match_parent"
     android:layout_height="100dp"
+    android:layout_marginTop="20dp"
+    android:background="@drawable/menu_rank"
+    android:fontFamily="sans-serif-black"
+    android:textSize="36sp"
+    android:textStyle="bold"
     android:text="@string/MButt5"
     android:onClick="MButt5"
     />
+
     <Button
-    android:id="@+id/button_sub6"
-    android:layout_width="match_parent"
-    android:layout_height="100dp"
-    android:text="@string/MButt6"
-    android:onClick="MButt6"
-    />
-    <Button
-    android:id="@+id/button_sub7"
-    android:layout_width="match_parent"
-    android:layout_height="100dp"
-    android:text="@string/MButt7"
-    android:onClick="MButt7"
-    />
-    <Button
-    android:id="@+id/button_sub8"
-    android:layout_width="match_parent"
-    android:layout_height="100dp"
-    android:text="@string/MButt8"
-    android:onClick="MButt8"
-    />
-                
+        android:id="@+id/button_sub6"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/menu_rank"
+        android:fontFamily="sans-serif-black"
+        android:onClick="MButt6"
+        android:text="דגלי יחידות"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
 </LinearLayout>
 
 </ScrollView>

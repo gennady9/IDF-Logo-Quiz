@@ -34,14 +34,17 @@
 
     <Button
         android:id="@+id/check_button"
+        style="@android:style/Widget.Holo.Button"
+
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="66dp"
         android:layout_alignBottom="@+id/answer_input"
-        android:layout_marginRight="-132dp"
         android:layout_marginEnd="-132dp"
-        android:layout_marginBottom="-52dp"
+        android:layout_marginRight="-132dp"
+        android:layout_marginBottom="-70dp"
         android:layout_toLeftOf="@+id/answer_input"
         android:onClick="CheckButton"
-        android:text="@string/check_button" />
+        android:text="@string/check_button"
+        android:textStyle="bold" />
 
 </RelativeLayout>

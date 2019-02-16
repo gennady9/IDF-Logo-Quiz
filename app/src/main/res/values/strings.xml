@@ -9,13 +9,10 @@
     <string name="MenuExit">יציאה</string>
     <string name="title_activity_subject_menu">בחירת קטגוריה</string>
     <string name="MButt1">סיכות כומתה</string>
-    <string name="MButt2">תגי יחידה - חילות</string>
+    <string name="MButt2">תגי יחידה</string>
     <string name="MButt3">כומתות</string>
     <string name="MButt4">דרגות</string>
     <string name="MButt5">סיכות</string>
-    <string name="MButt7">דגלי יחידות</string>
-    <string name="MButt6">עיטורים,צל"שים,מדליות</string>
-    <string name="MButt8">סמלי בונוס</string>
     <string name="title_activity_dis_tag">תגי היחידות</string>
     <string name="title_activity_dis_tag_info">מידע על התג</string>
     <string name="title_activity_dis_wear">לבוש צבאי</string>

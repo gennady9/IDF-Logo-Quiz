@@ -60,8 +60,6 @@
         <activity
             android:name="com.gennady9.idf.logo.quiz.GridDisplay"
             android:label="@string/title_activity_ngrid_display" >
-
-            <!-- android:parentActivityName="com.gennady9.idf.logo.quiz.SubjectMenu"> -->
         </activity>
         <activity
             android:name="com.gennady9.idf.logo.quiz.GridExtend"
@@ -77,4 +75,4 @@
             android:multiprocess="true" />
     </application>
 
-</manifest>
+</manifest> <!-- android:parentActivityName="com.gennady9.idf.logo.quiz.SubjectMenu"> -->
