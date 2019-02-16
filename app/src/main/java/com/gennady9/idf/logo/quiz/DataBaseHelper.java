@@ -8,9 +8,6 @@ import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.os.Build;
-import android.os.Environment;
-import android.util.Log;
 
 
 import java.io.FileOutputStream;
@@ -22,7 +19,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
  
     //The Android's default system path of your application database.
     private static String DB_PATH = "/data/data/com.gennady9.idf.logo.quiz/databases/";
- 
+ 	//Log.d("db_helper_path",Context.getFilesDir().getPath() );
     private static String DB_NAME = "FullDB.db";
     private static String DB_TABLE = "ReadTable";
  
@@ -44,40 +41,29 @@ public class DataBaseHelper extends SQLiteOpenHelper{
     /**
      * Constructor
      * Takes and keeps a reference of the passed context in order to access to the application assets and resources.
-     * @param context
+     * @param context - the current context
      */
     public DataBaseHelper(Context context) {
  
     	super(context, DB_NAME, null, 1);
         this.myContext = context;
+//		Log.d("db_helper_path",context.getFilesDir().getPath()); // TODO: consider getting path automatically (using getPath)
+//		Log.d("db_helper_path",DB_PATH);
     }	
  
   /**
      * Creates a empty database on the system and rewrites it with your own database.
      * */
-    public void createDataBase() throws IOException{
+    public void createDataBase(){
 
     	boolean dbExist = checkDataBase();
-		//Log.e("DB","DEBUG_GENNA - CREATE DATABASE ENDED");
-    	if(dbExist){
-    		//do nothing - database already exist
-    	}else{
- 
-    		//By calling this method and empty database will be created into the default system path
-               //of your application so we are gonna be able to overwrite that database with our database.
-        	this.getReadableDatabase();
-            this.close();
-        	try {
- 
-    			copyDataBase();
- 
-    		} catch (IOException e) {
- 
-        		throw new Error("Error copying database");
- 
-        	}
-    	}
- 
+    	if(!dbExist) {
+			//By calling this method and empty database will be created into the default system path
+			//of your application so we are gonna be able to overwrite that database with our database.
+			this.getReadableDatabase();
+			this.close();
+			try { copyDataBase(); } catch (IOException e) { throw new Error("Error copying database at createDataBase"); }
+		}
     }
  
     /**
@@ -138,41 +124,22 @@ public class DataBaseHelper extends SQLiteOpenHelper{
     }
  
     public void openDataBase() throws SQLException{
- 
     	//Open the database
         String myPath = DB_PATH + DB_NAME;
-    	myDataBase = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READWRITE/*OPEN_READONLY*/);
-/*
-		if (android.os.Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
-			MySQLiteOpenHelper helper = new MySQLiteOpenHelper();
-			SQLiteDatabase database = helper.getReadableDatabase();
-			myPath = database.getPath();
-
-		} else {
-			String DB_PATH = Environment.getDataDirectory() + "/data/my.trial.app/databases/";
-			myPath = DB_PATH + dbName;
-		}
-
-		myDataBase = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READWRITE);
-		myDataBase.disableWriteAheadLogging();
-*/
+    	myDataBase = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READWRITE);
     }
  
     @Override
 	public synchronized void close() {
- 
-    	    if(myDataBase != null)
-    		    myDataBase.close();
- 
-    	    super.close();
- 
+		if(myDataBase != null)
+			myDataBase.close();
+
+		super.close();
 	}
  
 
 	@Override
 	public void onCreate(SQLiteDatabase arg0) {
-		// TODO Auto-generated method stub
-		
 	}
 
 	@Override
@@ -181,35 +148,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 	//		copyDataBase();
 		
 	}
- 
-        // Add your public helper methods to access and get content from the database.
-       // You could return cursors by doing "return myDataBase.query(....)" so it'd be easy
-       // to you to create adapters for your views.
-	public String getData() {
-		String[] columns = new String[]{ KEY_ROWID , KEY_TYPE , KEY_POSITION , KEY_NAME , KEY_EXTEND , KEY_ANSWER , KEY_CORRECT , KEY_HINT , KEY_TRIES , KEY_LASTG };
 
-		Cursor c = myDataBase.query(DB_TABLE,columns,null,null,null,null,null);
-		String result = "";
-		
-		int iRow = c.getColumnIndex(KEY_ROWID);
-		int iName = c.getColumnIndex(KEY_NAME);
-		int iExtend = c.getColumnIndex(KEY_EXTEND);
-		int iAns = c.getColumnIndex(KEY_ANSWER);
-		int iType = c.getColumnIndex(KEY_TYPE);
-		int iCorrect = c.getColumnIndex(KEY_CORRECT);
-		int iHint = c.getColumnIndex(KEY_HINT);
-		int iTries = c.getColumnIndex(KEY_TRIES);
-		int iLastG = c.getColumnIndex(KEY_LASTG);
-
-		
-		for(c.moveToFirst(); !c.isAfterLast(); c.moveToNext()) {
-			result = result + c.getString(iRow) + " " + c.getString(iName) + " " + c.getString(iExtend)
-					 + " " + c.getString(iAns) + " " + c.getString(iType) + " " + c.getInt(iCorrect)
-					 + " " + c.getString(iHint) + " " + c.getInt(iTries) + " " + c.getString(iLastG) +"\n";
-		}
-		return result;
-	}
-	
 	
 	public Integer[] getImgIdArray(Context context , String type) {
 		String[] columns = new String[]{ KEY_ROWID , KEY_TYPE , KEY_POSITION , KEY_NAME};
@@ -220,8 +159,6 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 		int iName = c.getColumnIndex(KEY_NAME);
 		int num = 0;
 		int parsepos;
-
-		// TO DO A LIST OF IMAGES
 		
 		for(c.moveToFirst(); !c.isAfterLast(); c.moveToNext()){
 		String[] types = c.getString(iType).split(",");
@@ -267,22 +204,20 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 			}
 		}
 		else{
-		if(types[0].equals(type)){
-			try {parsepos = Integer.parseInt(c.getString(iPosition));
-			} catch(NumberFormatException nfe) {System.out.println("Could not parse " + nfe);}
-		}
+			if(types[0].equals(type)){
+				try {parsepos = Integer.parseInt(c.getString(iPosition));
+				} catch(NumberFormatException nfe) {System.out.println("Could not parse " + nfe);}
+			}
 		}
 		if(parsepos != 0)
 			IdArr[parsepos - 1] =
 			context.getResources().getIdentifier(c.getString(iName), "drawable" , context.getPackageName());
 	}
+		c.close();
 		return IdArr;
 	}	
-	
-	
-	
-	
-	public String getImgAnswer(Context context , String name) {
+
+	public String getImgAnswer(String name) {
 		String[] columns = new String[]{ KEY_ROWID , KEY_TYPE , KEY_POSITION , KEY_NAME , KEY_EXTEND , KEY_ANSWER , KEY_CORRECT , KEY_HINT , KEY_TRIES , KEY_LASTG };
 		Cursor c = myDataBase.query(DB_TABLE,columns,null,null,null,null,null);
 		c.moveToFirst();
@@ -293,7 +228,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 			if(c.getString(iName).equals(name))
 				Answer = c.getString(iAnswer);
 		}
-		
+		c.close();
 		return Answer;
 	}	
 	
@@ -304,32 +239,19 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 		int iType = c.getColumnIndex(KEY_TYPE);
 		int iName = c.getColumnIndex(KEY_NAME);
 		int iExtend = c.getColumnIndex(KEY_EXTEND);
-		String Extend = null;
 		for(c.moveToFirst(); !c.isAfterLast(); c.moveToNext()){
 			if(c.getString(iType).equals(Type)){
 				if(c.getString(iName).equals(name)){
-					Extend = c.getString(iExtend);
-			//		if(Extend.equals("")) CRASH
-				//		Extend = null;
+					String Extend = c.getString(iExtend);
+					c.close();
 					return Extend;
 				}
 			}
 		}
-		return Extend;
+		c.close();
+		return null;
 	}	
-	
-	public Cursor RetCursor() {
-		String[] columns = new String[]{ KEY_ROWID , KEY_TYPE , KEY_POSITION , KEY_NAME , KEY_EXTEND , KEY_ANSWER , KEY_CORRECT , KEY_HINT , KEY_TRIES , KEY_LASTG };
-		Cursor c = myDataBase.query(DB_TABLE,columns,null,null,null,null,null);
-		c.moveToFirst();
-	return c;
-	}
-	public Cursor RetCursor(String[] columns) {
-		Cursor c = myDataBase.query(DB_TABLE,columns,null,null,null,null,null);
-		c.moveToFirst();
-	return c;
-	}
-	
+
 	public boolean CheckCorrectAns(String name) {
 		String[] columns = new String[]{ KEY_ROWID , KEY_NAME , KEY_EXTEND , KEY_CORRECT};
 		Cursor c = myDataBase.query(DB_TABLE,columns,null,null,null,null,null);
@@ -337,13 +259,9 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 		int iName = c.getColumnIndex(KEY_NAME);
 		int iCorrect = c.getColumnIndex(KEY_CORRECT);
 		for(c.moveToFirst(); !c.isAfterLast(); c.moveToNext()) {
-			if(c.getString(iName).equals(name)){
-				if(c.getInt(iCorrect) == 1)
-					return true;
-				else
-					return false;
-			}
+			if(c.getString(iName).equals(name))  return (c.getInt(iCorrect) == 1);
 		}
+		c.close();
 		return false;
 	}
 	
@@ -365,24 +283,25 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 		int iExtend = c.getColumnIndex(KEY_EXTEND);
 		int ret = 0;
 		for(c.moveToFirst(); !c.isAfterLast(); c.moveToNext()) {
-		if(c.getString(iType).equals(Type)){
-			if(c.getString(iName).equals(name)){
-				if(c.getString(iExtend) == null || c.getString(iExtend).isEmpty() || c.getString(iExtend).equals("")){ // Not Extended + CHECK FOR CRASHING
-					if(c.getInt(iCorrect) == 1)
-						ret = 1;
-				}
-				else{ // Extended
-					if(CheckTypeCorrect(c.getString(iExtend))){ // Extend,correct = State 3
-						ret = 3;
+			if(c.getString(iType).equals(Type)){
+				if(c.getString(iName).equals(name)){
+					if(c.getString(iExtend) == null || c.getString(iExtend).isEmpty() || c.getString(iExtend).equals("")){ // Not Extended + CHECK FOR CRASHING
+						if(c.getInt(iCorrect) == 1)
+							ret = 1;
 					}
-					else{ // Extend, not correct = State 2
-						ret = 2;
+					else{ // Extended
+						if(CheckTypeCorrect(c.getString(iExtend))){ // Extend,correct = State 3
+							ret = 3;
+						}
+						else{ // Extend, not correct = State 2
+							ret = 2;
+						}
 					}
+				return ret;
 				}
-			return ret;
-			} 
-		} 
+			}
 		} // close loop
+		c.close();
 		return -1; // Not found any images
 	}
 	
@@ -390,7 +309,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 		String[] columns = new String[]{ KEY_TYPE , KEY_NAME , KEY_CORRECT};
 		Cursor c = myDataBase.query(DB_TABLE,columns,null,null,null,null,null);
 		c.moveToFirst();
-		int iName = c.getColumnIndex(KEY_NAME);
+		//int iName = c.getColumnIndex(KEY_NAME);
 		int iType = c.getColumnIndex(KEY_TYPE);
 		int iCorrect = c.getColumnIndex(KEY_CORRECT);
 		for(c.moveToFirst(); !c.isAfterLast(); c.moveToNext()) {
@@ -399,6 +318,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 					return false;
 			}
 		}
+		c.close();
 		return true;
 	}
 	
@@ -415,6 +335,53 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 				myDataBase.update(DB_TABLE, cv, KEY_ROWID + "=" + c.getInt(iRow), null);
 			}
 		}
+		c.close();
 	}
 	
 }
+
+
+/*	CODE GRAVEYARD
+	public Cursor RetCursor() {
+		String[] columns = new String[]{ KEY_ROWID , KEY_TYPE , KEY_POSITION , KEY_NAME , KEY_EXTEND , KEY_ANSWER , KEY_CORRECT , KEY_HINT , KEY_TRIES , KEY_LASTG };
+		Cursor c = myDataBase.query(DB_TABLE,columns,null,null,null,null,null);
+		c.moveToFirst();
+	return c;
+	}
+	public Cursor RetCursor(String[] columns) {
+		Cursor c = myDataBase.query(DB_TABLE,columns,null,null,null,null,null);
+		c.moveToFirst();
+	return c;
+	}
+
+
+
+	/*
+	public String getData() {
+		String[] columns = new String[]{ KEY_ROWID , KEY_TYPE , KEY_POSITION , KEY_NAME , KEY_EXTEND , KEY_ANSWER , KEY_CORRECT , KEY_HINT , KEY_TRIES , KEY_LASTG };
+
+		Cursor c = myDataBase.query(DB_TABLE,columns,null,null,null,null,null);
+		String result = "";
+
+		int iRow = c.getColumnIndex(KEY_ROWID);
+		int iName = c.getColumnIndex(KEY_NAME);
+		int iExtend = c.getColumnIndex(KEY_EXTEND);
+		int iAns = c.getColumnIndex(KEY_ANSWER);
+		int iType = c.getColumnIndex(KEY_TYPE);
+		int iCorrect = c.getColumnIndex(KEY_CORRECT);
+		int iHint = c.getColumnIndex(KEY_HINT);
+		int iTries = c.getColumnIndex(KEY_TRIES);
+		int iLastG = c.getColumnIndex(KEY_LASTG);
+
+
+		for(c.moveToFirst(); !c.isAfterLast(); c.moveToNext()) {
+			result = result + c.getString(iRow) + " " + c.getString(iName) + " " + c.getString(iExtend)
+					 + " " + c.getString(iAns) + " " + c.getString(iType) + " " + c.getInt(iCorrect)
+					 + " " + c.getString(iHint) + " " + c.getInt(iTries) + " " + c.getString(iLastG) +"\n";
+		}
+		return result;
+	}
+*/
+
+
+

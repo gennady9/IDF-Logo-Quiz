@@ -20,18 +20,12 @@ public class GridDisplay extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-  //      setContentView(R.layout.grid_splash);
-       
-      /*  -- filling array with default pin
-       Integer[] ChoosenArray = {
-        		R.drawable.pin_zahal	
-        };*/
 
-        Integer[] ChoosenArray = null;
+        Integer[] ChoosenArray;
 		
         Log.d("GridDisplay","Image Loading Started");
         DataBaseHelper myDbHelper = new DataBaseHelper(this);
-        try {myDbHelper.openDataBase();}catch(SQLException sqle){throw sqle;}
+		try {myDbHelper.openDataBase();}catch(SQLException sqle){throw new Error("Unable to open database");}
         String Type = getIntent().getStringExtra("type");
      	ChoosenArray = myDbHelper.getImgIdArray(this, Type);
         myDbHelper.close();
@@ -54,8 +48,7 @@ public class GridDisplay extends Activity {
                     public void onItemClick(AdapterView<?> parent, View v, int position, long id) {
                     	                  	
                     	Intent intent = new Intent(GridDisplay.this,ImageDisplay.class);
-                    //	Intent intent = new Intent(GridDisplay.this,GridExtend.class);
-                    	intent.putExtra("imgId", FinalArray[position]); // change to id
+                    	intent.putExtra("imgId", FinalArray[position]);
                     	intent.putExtra("type", getIntent().getStringExtra("type"));
                         startActivity(intent);
                         
@@ -69,14 +62,14 @@ public class GridDisplay extends Activity {
 	protected void onResume()
 	{
 	   super.onResume();
-	   this.onCreate(null); // CHECK FOR EFFICIENTY
+	   this.onCreate(null);
 	}
 
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.activity_grid_display, menu);
+//		getMenuInflater().inflate(R.menu.activity_grid_display, menu);
 		return true;
 	}
 

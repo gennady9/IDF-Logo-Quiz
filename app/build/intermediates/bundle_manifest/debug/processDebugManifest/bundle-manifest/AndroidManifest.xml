@@ -6,11 +6,13 @@
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="28" />
 
     <application
         android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
+        android:fullBackupContent="true"
         android:icon="@drawable/idf_icon"
         android:label="@string/app_name"
         android:testOnly="true"
@@ -48,7 +50,8 @@
         <activity
             android:name="com.gennady9.idf.logo.quiz.ImageDisplay"
             android:label="@string/title_activity_image_display"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait" >
+        </activity>
         <activity
             android:name="com.gennady9.idf.logo.quiz.AppInfo"
             android:label="@string/title_activity_app_info"
@@ -61,13 +64,6 @@
             android:name="com.gennady9.idf.logo.quiz.GridDisplay"
             android:label="@string/title_activity_ngrid_display" >
         </activity>
-        <activity
-            android:name="com.gennady9.idf.logo.quiz.GridExtend"
-            android:label="@string/title_activity_grid_extend" />
-
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="26.0.0" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

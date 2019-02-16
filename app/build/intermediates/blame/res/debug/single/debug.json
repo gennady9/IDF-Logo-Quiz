@@ -9,7 +9,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout-v16\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idf_background_lightgreen.png.flat",
@@ -36,12 +36,12 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\flag_medic.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_gdod_lahav.png.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_gdod_lahav.png"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deco_hatasha.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\deco_hatasha.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_gdod_lahav.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_gdod_lahav.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_army_prison.png.flat",
@@ -65,15 +65,11 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\caa00ee60e206e5f127415755de1a274\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nahal_p_gdod50.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\nahal_p_gdod50.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_icon_display.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\icon_display.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idf_background_darkgreen.png.flat",
@@ -86,10 +82,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_moran.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\artillery_moran.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_rank_info.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_rank_info.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_landp_para.png.flat",
@@ -120,10 +112,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\navy_haifa.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_wear.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_wear.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_air_kanaf15.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\air_kanaf15.png"
     },
@@ -145,11 +133,11 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_shirion.png.flat",
@@ -165,7 +153,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-v21\\notification_action_background.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atal_masa7000.png.flat",
@@ -188,20 +176,12 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\long_button_yellow.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_grid_extend.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_grid_extend.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_pikudhaoref.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_pikudhaoref.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_kfir.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\flag_kfir.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_grid_extend.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_grid_extend.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_air_kanaf1.png.flat",
@@ -218,10 +198,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_handasa.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\flag_handasa.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_hayl_tag.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_hayl_tag.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_golani.png.flat",
@@ -261,7 +237,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_shlishot.png.flat",
@@ -288,10 +264,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\tag_maate.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dargot_display.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dargot_display.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_shrion.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_shrion.png"
     },
@@ -316,10 +288,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\idf_icon.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_logo_grid_general.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\logo_grid_general.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_techni.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_techni.png"
     },
@@ -329,7 +297,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_givati.png.flat",
@@ -381,7 +349,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_air_baha28.png.flat",
@@ -393,7 +361,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout-v21\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_eisof_kravi.png.flat",
@@ -405,7 +373,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_offer_camp.png.flat",
@@ -414,10 +382,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aog80_hativa515.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\aog80_hativa515.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_display__tag.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_display__tag.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_rasan.png.flat",
@@ -442,10 +406,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armor_hativa401.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\armor_hativa401.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_grid_display.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_grid_display.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deco_volunteer.png.flat",
@@ -504,10 +464,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\lotam_hoshen.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_wear_info.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_wear_info.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_maraom.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\infantry_maraom.png"
     },
@@ -534,10 +490,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armor_hativa7.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\armor_hativa7.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_hayl_tag_display.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_hayl_tag_display.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hinuh_gadna.png.flat",
@@ -664,10 +616,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_rasab.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_tag_info.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_tag_info.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_app_info.xml.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_app_info.xml"
     },
@@ -677,7 +625,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\caa00ee60e206e5f127415755de1a274\\res\\layout\\notification_media_action.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medic_equipment.png.flat",
@@ -690,10 +638,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_seren.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\rank_seren.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_general_logo_info.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_general_logo_info.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_rasam.png.flat",
@@ -709,7 +653,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\caa00ee60e206e5f127415755de1a274\\res\\layout\\notification_template_media_custom.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_center_aog98.png.flat",
@@ -742,10 +686,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_nahal.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\flag_nahal.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_tag.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_tag.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp_kziut_prison.png.flat",
@@ -781,11 +721,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_main.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_para_p_palhik.png.flat",
@@ -832,12 +768,12 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kfir_p_levy.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medic_shikum.png.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\medic_shikum.png"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navy_mazad.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\navy_mazad.png"
+    },
+    {
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medic_shikum.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\medic_shikum.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_hinuh.png.flat",
@@ -845,15 +781,15 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable\\notification_tile_bg.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable\\notification_bg_low.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_police_magav.png.flat",
@@ -877,7 +813,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\caa00ee60e206e5f127415755de1a274\\res\\layout\\notification_template_media.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infantry_gdod_siur.png.flat",
@@ -889,15 +825,11 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout-v21\\notification_action.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_air_basa18.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\air_basa18.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_kumtot_display.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_kumtot_display.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_givati_p_orev.png.flat",
@@ -949,7 +881,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idf_logo_bottom.png.flat",
@@ -985,7 +917,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout\\notification_action.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gaza_north.png.flat",
@@ -1069,7 +1001,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\caa00ee60e206e5f127415755de1a274\\res\\layout\\notification_template_lines_media.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atal_weapon.png.flat",
@@ -1120,28 +1052,20 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_bahalatz.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_artillery.png.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_artillery.png"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nahal_p_gadsar.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\nahal_p_gadsar.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_rank.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_rank.xml"
+        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_artillery.png.flat",
+        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\bpin_artillery.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable\\notification_icon_background.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comm_basmah.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\comm_basmah.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_sikut_display.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_sikut_display.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_south_gaza.png.flat",
@@ -1204,10 +1128,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\flag_artillery.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_app_info.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_app_info.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ayosh_ezion.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\ayosh_ezion.png"
     },
@@ -1229,7 +1149,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\caa00ee60e206e5f127415755de1a274\\res\\layout\\notification_template_big_media.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_haoref.png.flat",
@@ -1254,10 +1174,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deco_independence.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\deco_independence.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_splash.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\grid_splash.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atal_laom.png.flat",
@@ -1357,7 +1273,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_tavor.png.flat",
@@ -1376,10 +1292,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\deco_prison.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subject_menu_old.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\layout\\activity_subject_menu_old.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_cover.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\main_cover.png"
     },
@@ -1390,10 +1302,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_north_aog91.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\north_aog91.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_ngrid_display.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_ngrid_display.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eisuf_eitam.png.flat",
@@ -1413,7 +1321,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_hatal.png.flat",
@@ -1457,7 +1365,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iaf_shaldag.png.flat",
@@ -1480,10 +1388,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_navy_1.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_pin.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_pin.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_abah.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\handasa_abah.png"
     },
@@ -1497,7 +1401,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handasa_yalom.png.flat",
@@ -1505,11 +1409,11 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artillery_warrior.png.flat",
@@ -1521,7 +1425,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable\\notification_bg.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_militarypolice.png.flat",
@@ -1533,7 +1437,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout-v21\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_infantry.png.flat",
@@ -1545,7 +1449,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\caa00ee60e206e5f127415755de1a274\\res\\layout\\notification_template_big_media_narrow.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kfir_p_nahshon.png.flat",
@@ -1625,7 +1529,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\caa00ee60e206e5f127415755de1a274\\res\\layout\\notification_template_big_media_custom.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_shoher_navy.png.flat",
@@ -1669,7 +1573,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nahal_p_palhan.png.flat",
@@ -1717,11 +1621,11 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\caa00ee60e206e5f127415755de1a274\\res\\layout\\notification_media_cancel_action.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout\\notification_template_part_chronometer.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atal_ammo.png.flat",
@@ -1730,10 +1634,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iaf_loading.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\iaf_loading.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_subject_menu.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_subject_menu.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_hinuh.png.flat",
@@ -1793,7 +1693,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank_taal.png.flat",
@@ -1818,10 +1718,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kumta_modiein.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\kumta_modiein.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dis_pin_info.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_dis_pin_info.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bpin_himush.png.flat",
@@ -1852,12 +1748,8 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\air_yakta.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_image_display.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_image_display.xml"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_land_formations.png.flat",
@@ -1885,7 +1777,7 @@
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\f07804ad4de4b171bfedfb08fa0a0728\\res\\layout\\notification_template_part_time.xml"
+        "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2e52390ae8ce177c52f2fa17f6038bb6\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_golani_p_gadsar.png.flat",
@@ -1918,10 +1810,6 @@
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_center_aog162.png.flat",
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\center_aog162.png"
-    },
-    {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_hail_tag_display.xml.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\menu\\activity_hail_tag_display.xml"
     },
     {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deco_country_w.png.flat",

@@ -7,6 +7,7 @@
 
     <application
         android:allowBackup="true"
+        android:fullBackupContent="true"
         android:icon="@drawable/idf_icon"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
@@ -43,7 +44,8 @@
         <activity
             android:name="com.gennady9.idf.logo.quiz.ImageDisplay"
             android:label="@string/title_activity_image_display"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait">
+        </activity>
         <activity
             android:name="com.gennady9.idf.logo.quiz.AppInfo"
             android:label="@string/title_activity_app_info"
@@ -57,9 +59,6 @@
             android:label="@string/title_activity_ngrid_display">
 
         </activity>
-        <activity
-            android:name="com.gennady9.idf.logo.quiz.GridExtend"
-            android:label="@string/title_activity_grid_extend"></activity>
     </application>
 
 </manifest>
