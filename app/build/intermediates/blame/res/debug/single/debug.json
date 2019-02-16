@@ -1616,10 +1616,6 @@
         "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\landp_oketz.png"
     },
     {
-        "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple_button.png.flat",
-        "source": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\src\\main\\res\\drawable\\simple_button.png"
-    },
-    {
         "merged": "C:\\Users\\genna\\StudioProjects\\IDFLogoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
         "source": "C:\\Users\\genna\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\3d643d65de5eaa64efc45af07127f08c\\res\\layout\\notification_media_cancel_action.xml"
     },
