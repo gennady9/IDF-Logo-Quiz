@@ -4,6 +4,8 @@ android {
     compileSdkVersion 28
     buildToolsVersion "28.0.3"
 
+    aaptOptions { cruncherEnabled = false }
+
     defaultConfig {
         applicationId "com.gennady9.idf.logo.quiz"
         minSdkVersion 16
