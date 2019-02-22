@@ -47,4 +47,15 @@
         android:text="@string/check_button"
         android:textStyle="bold" />
 
+    <TextView
+        android:id="@+id/wrong_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/check_button"
+        android:layout_marginEnd="-132dp"
+        android:layout_marginRight="-132dp"
+        android:layout_marginBottom="-40dp"
+        android:layout_toLeftOf="@+id/answer_input"
+        android:text="" />
+
 </RelativeLayout>

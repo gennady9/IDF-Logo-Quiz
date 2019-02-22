@@ -19,6 +19,7 @@ public class ImageDisplay extends Activity {
     ImageView imgView;
 	private EditText input_answer;
 	String input = ""; // initial input var creation (should be placed here.)
+    int attempts_left = 5;
 	//LogoDatabase entry = new LogoDatabase(this);
     
 	@Override
@@ -64,7 +65,8 @@ public class ImageDisplay extends Activity {
     
     
     public void CheckButton(View view){
-    	
+        attempts_left--;
+        boolean correct_ans = false;
         int ImgId = getIntent().getIntExtra("imgId", R.drawable.bpin_zahal);
         input = input_answer.getText().toString();
         //entry.open();
@@ -76,20 +78,30 @@ public class ImageDisplay extends Activity {
         String[] Answers = Answer.split(",");
         for (String real_answer : Answers){
         	if(real_answer.equals(input) || input.equals("genna")){
-        		myDbHelper.SetCorrectAns(ImageName);
-            	setContentView(R.layout.correct_answer_display);
-            	ImageView correctImg = findViewById(R.id.guessed_image);
-                TextView answer = findViewById(R.id.answer_display);
-                correctImg.setImageResource(ImgId);
-            	answer.setText(Answers[0]);
+        	    mark_correct_answer(myDbHelper, ImageName, ImgId, Answers[0]);
+            	correct_ans = true;
         		break;
         	}
         }
+        if(!correct_ans){
+            if(attempts_left > 0){
+                TextView wrong_msg = findViewById(R.id.wrong_msg);
+                wrong_msg.setText("נסה שוב! " + " לאחר עוד " + attempts_left + " נסיונות,\nנגלה את התשובה :)");
+            }else{
+                mark_correct_answer(myDbHelper, ImageName, ImgId, Answers[0]);
+            }
+        }
         myDbHelper.close();
-    	//entry.close();
-    	}
+    }
     
-    
+    private void mark_correct_answer(DataBaseHelper myDbHelper, String ImageName, int ImgId, String real_answer){
+        myDbHelper.SetCorrectAns(ImageName);
+        setContentView(R.layout.correct_answer_display);
+        ImageView correctImg = findViewById(R.id.guessed_image);
+        TextView answer = findViewById(R.id.answer_display);
+        correctImg.setImageResource(ImgId);
+        answer.setText(real_answer);
+    }
     
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

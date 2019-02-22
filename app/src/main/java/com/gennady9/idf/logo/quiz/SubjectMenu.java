@@ -67,4 +67,9 @@ public class SubjectMenu extends Activity{
     	intent.putExtra("type", "flag");
     	startActivity(intent);
     }
+    public void MButt7(View view){ //
+        Intent intent = new Intent(this, GridDisplay.class);
+        intent.putExtra("type", "deco");
+        startActivity(intent);
+    }
 }

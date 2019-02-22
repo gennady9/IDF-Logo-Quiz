@@ -15,19 +15,18 @@
     <Button
         android:id="@+id/button_sub1"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
+        android:layout_height="80dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/menu_rank"
         android:fontFamily="sans-serif-black"
-        android:textSize="36sp"
-        android:textStyle="bold"
         android:onClick="MButt1"
         android:text="@string/MButt1"
-        />
+        android:textSize="36sp"
+        android:textStyle="bold" />
     <Button
     android:id="@+id/button_sub2"
     android:layout_width="match_parent"
-    android:layout_height="100dp"
+    android:layout_height="80dp"
     android:layout_marginTop="20dp"
     android:background="@drawable/menu_rank"
     android:fontFamily="sans-serif-black"
@@ -39,7 +38,7 @@
     <Button
     android:id="@+id/button_sub3"
     android:layout_width="match_parent"
-    android:layout_height="100dp"
+    android:layout_height="80dp"
     android:layout_marginTop="20dp"
     android:background="@drawable/menu_rank"
     android:fontFamily="sans-serif-black"
@@ -51,7 +50,7 @@
     <Button
     android:id="@+id/button_sub4"
     android:layout_width="match_parent"
-    android:layout_height="100dp"
+    android:layout_height="80dp"
     android:layout_marginTop="20dp"
     android:background="@drawable/menu_rank"
     android:fontFamily="sans-serif-black"
@@ -63,7 +62,7 @@
     <Button
     android:id="@+id/button_sub5"
     android:layout_width="match_parent"
-    android:layout_height="100dp"
+    android:layout_height="80dp"
     android:layout_marginTop="20dp"
     android:background="@drawable/menu_rank"
     android:fontFamily="sans-serif-black"
@@ -76,12 +75,25 @@
     <Button
         android:id="@+id/button_sub6"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:layout_marginTop="30dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/menu_rank"
         android:fontFamily="sans-serif-black"
         android:onClick="MButt6"
         android:text="דגלי יחידות"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button_sub7"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/menu_rank"
+        android:fontFamily="sans-serif-black"
+        android:onClick="MButt7"
+        android:text="אותות מלחמה"
         android:textSize="36sp"
         android:textStyle="bold" />
 
